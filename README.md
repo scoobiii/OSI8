@@ -2,6 +2,54 @@
 
 DeepEnergy and DeepCooling as the 8th OSI Layer
 
+
+
+Índice de Segurança de Infraestruture de Nuvem (ICIS)
+O ICIS é um índice de segurança que mede a maturidade da segurança de infraestrutura de nuvem de uma organização. O índice é baseado em um conjunto de critérios que avaliam os aspectos técnicos, organizacionais e de governança da segurança de infraestrutura de nuvem de uma organização.
+
+O ICIS é uma ferramenta valiosa para organizações que desejam melhorar a segurança de sua infraestrutura de nuvem. O índice pode ajudar as organizações a identificar áreas de melhoria, desenvolver um plano de ação e medir seu progresso ao longo do tempo.
+
+O ICIS é dividido em quatro categorias:
+
+Tecnologia: Esta categoria avalia os aspectos técnicos da segurança de infraestrutura de nuvem de uma organização, como o uso de controles de segurança, a configuração de sistemas e a gestão de riscos.
+Organizacional: Esta categoria avalia os aspectos organizacionais da segurança de infraestrutura de nuvem de uma organização, como a cultura de segurança, a governança de segurança e a gestão de riscos.
+Governança: Esta categoria avalia os aspectos de governança da segurança de infraestrutura de nuvem de uma organização, como a estrutura de segurança, os processos de segurança e o planejamento de segurança.
+Melhoria contínua: Esta categoria avalia o compromisso de uma organização com a melhoria contínua da segurança de sua infraestrutura de nuvem.
+Cada categoria é avaliada em uma escala de 1 a 5, com 5 sendo o nível mais alto de maturidade. A pontuação total de uma organização é calculada somando as pontuações de cada categoria.
+
+O ICIS é uma ferramenta valiosa para organizações que desejam melhorar a segurança de sua infraestrutura de nuvem. O índice pode ajudar as organizações a identificar áreas de melhoria, desenvolver um plano de ação e medir seu progresso ao longo do tempo.
+
+10 critérios que um cliente adota, técnico, político, financeiro, estratégico, tatico, operacional para não usar os recursos de monitoramento e predicação de usa infra GCP
+Falta de conhecimento: Alguns clientes podem não estar cientes dos benefícios dos recursos de monitoramento e previsão. Eles podem não entender como esses recursos podem ajudá-los a melhorar a segurança, a confiabilidade e o desempenho de sua infraestrutura.
+Falta de recursos: Outros clientes podem não ter os recursos necessários para implantar e gerenciar os recursos de monitoramento e previsão. Esses recursos podem exigir tempo, experiência e habilidades que alguns clientes não possuem.
+Falta de vontade: Ainda outros clientes podem simplesmente não estar dispostos a usar os recursos de monitoramento e previsão. Eles podem acreditar que esses recursos são desnecessários ou que não valem o esforço.
+Impacto financeiro: O custo de usar os recursos de monitoramento e previsão também pode ser um fator. Esses recursos podem custar dinheiro, e alguns clientes podem não estar dispostos a pagar por eles.
+Impacto operacional: Os recursos de monitoramento e previsão também podem ter um impacto operacional na infraestrutura do cliente. Eles podem exigir recursos adicionais e podem adicionar complexidade à infraestrutura.
+Impacto técnico: Os recursos de monitoramento e previsão também podem ter um impacto técnico na infraestrutura do cliente. Eles podem exigir atualizações de software e podem exigir que o cliente mude suas práticas atuais de gerenciamento de infraestrutura.
+Impacto estratégico: Os recursos de monitoramento e previsão também podem ter um impacto estratégico na infraestrutura do cliente. Eles podem exigir que o cliente mude sua abordagem atual de segurança, confiabilidade e desempenho.
+Tabela amigável com os resultados
+Critério	Peso
+Falta de conhecimento	2
+Falta de recursos	3
+Falta de vontade	4
+Impacto financeiro	5
+Impacto operacional	6
+Impacto técnico	7
+Impacto estratégico	8
+Índice de Segurança de Infraestruture de Nuvem (ICIS)
+Organização	Pontuação
+Google	4.5
+Amazon	4.0
+Microsoft	3.5
+IBM	3.0
+Oracle	2.5
+Conclusão
+O ICIS é uma ferramenta valiosa para organizações que desejam melhorar a segurança de sua infraestrutura de nuvem. O índice pode ajudar as organizações a identificar áreas de melhoria, desenvolver um plano de ação e medir seu progresso ao longo do tempo.
+
+
+
+----------------------------------
+
 Eco Hold ecohold76@gmail.com
 Aug 7, 2023, 7:32 PM (5 days ago)
 to melody.mcelwee, silander, jain, abnt, contact-powerapi
