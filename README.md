@@ -1,50 +1,159 @@
-# OSI8
+**Energia e Refrigeração como a 8ª Camada OSI**
 
-DeepEnergy and DeepCooling as the 8th OSI Layer
+# Sumário
 
+## Capítulo 1: Introdução: Em Busca da Confiabilidade
 
+## Capítulo 2: A Gênese da OSI8: Uma Nova Fronteira
 
-Índice de Segurança de Infraestruture de Nuvem (ICIS)
+## Capítulo 3: Jornada ao Núcleo: Desvendando a DeepEnergy
+
+## Capítulo 4: Refrescando as Profundezas: Explorando a DeepCooling
+
+## Capítulo 5: O Nexus da Segurança: Camada 8 e Além
+
+## Capítulo 6: Ondas de Dados: Navegando na Rede OSI8
+
+## Capítulo 7: Unidade Elemental: Integração e Interação
+
+## Capítulo 8: Guardiões da OSI8: Gerenciando o Reino Digital
+
+## Capítulo 9: Ascendendo na OSI8: O Futuro e Além
+
+## Capítulo 10: Conectando Realidades: OSI8 na IoT
+
+## Capítulo 11: Abraçando a Mudança: Adaptando a OSI8 na Nuvem
+
+## Capítulo 12: Salto Quântico: Criptografia na OSI8
+
+## Capítulo 13: Mente e Máquina: O Papel da IA na OSI8
+
+## Capítulo 14: Horizontes Etéreos: Privacidade na Era OSI8
+
+## Capítulo 15: Conclusão: OSI8 - Onde as Camadas Convergem
+
+# Capítulo 1: Introdução: Em Busca da Confiabilidade
+
+No mundo interconectado de hoje, a confiabilidade das redes é fundamental. Neste capítulo, exploraremos o porquê das práticas de Cloud Operations serem cruciais para garantir a confiabilidade de serviços em nuvem. Abordaremos os três principais objetivos dessa abordagem: segurança, satisfação do usuário e otimização de capacidade. Ao mergulharmos nesses conceitos, preparamos o terreno para explorar as melhores práticas da OSI8.
+
+# Capítulo 2: A Gênese da OSI8: Uma Nova Fronteira
+
+A história da OSI8 começa com a necessidade de abordar os desafios da eficiência energética e refrigeração em redes modernas. Neste capítulo, exploraremos os antecedentes que levaram à criação dessa camada única. Com uma visão sobre os pioneiros por trás da OSI8, entenderemos como ela se tornou um marco na arquitetura de rede.
+
+# Capítulo 3: Jornada ao Núcleo: Desvendando a DeepEnergy
+
+A DeepEnergy é a essência da OSI8, revolucionando a eficiência energética nas redes. Este capítulo nos guiará por essa jornada tecnológica. Exploraremos as estratégias para otimização de energia, reduzindo a pegada de carbono e, ao mesmo tempo, mantendo a confiabilidade. Com exemplos concretos, compreenderemos a transformação trazida pela DeepEnergy.
+
+# Capítulo 4: Refrescando as Profundezas: Explorando a DeepCooling
+
+O calor é inimigo da confiabilidade das redes. Neste capítulo, examinaremos a importância da DeepCooling na OSI8. Exploraremos inovações em resfriamento, desde técnicas tradicionais até avanços em nanotecnologia. Descobriremos como a DeepCooling trabalha em sinergia com a DeepEnergy para criar um ambiente de rede estável e resfriado.
+
+# Capítulo 5: O Nexus da Segurança: Camada 8 e Além
+
+A segurança é fundamental em qualquer rede. Neste capítulo, desvendaremos a intersecção entre a 8ª Camada OSI e a segurança, conhecida como "Camada 8". Exploraremos como a OSI8 redefine as abordagens de segurança, incluindo a utilização da DeepEnergy e DeepCooling. Além disso, discutiremos as implicações éticas da segurança nessa era digital.
+
+# Capítulo 6: Ondas de Dados: Navegando na Rede OSI8
+
+As ondas de dados percorrem a OSI8, moldando a forma como a informação flui nas redes. Neste capítulo, examinaremos como a OSI8 revoluciona a comunicação de dados, adaptando-se à crescente demanda por largura de banda e baixa latência. Exploraremos as tecnologias emergentes que estão moldando o futuro da transmissão de dados.
+
+# Capítulo 7: Unidade Elemental: Integração e Interação
+
+A integração é a chave para redes eficientes. Neste capítulo, exploraremos como a OSI8 promove a integração de sistemas e serviços. Compreenderemos como a interação entre os elementos da rede é otimizada, resultando em fluxos de trabalho mais eficientes e confiáveis.
+
+# Capítulo 8: Guardiões da OSI8: Gerenciando o Reino Digital
+
+Na OSI8, a gestão das redes assume uma nova dimensão. Neste capítulo, exploraremos o papel dos "Guardiões da OSI8" - profissionais e ferramentas encarregados de manter a estabilidade e a eficiência das redes. Veremos como a centralização dos dados operacionais, a auditoria detalhada e o controle de acesso são fundamentais para a gestão bem-sucedida do reino digital da OSI8.
+
+# Capítulo 9: Ascendendo na OSI8: O Futuro e Além
+
+A OSI8 é apenas o começo. Neste capítulo, lançaremos um olhar ao futuro e às possibilidades que se abrem com essa nova camada. Abordaremos tendências emergentes, como a Internet das Coisas (IoT), e como a OSI8 se adapta a essas mudanças. Ao explorarmos a expansão da OSI8 para o horizonte desconhecido, vislumbraremos as inúmeras oportunidades que aguardam.
+
+# Capítulo 10: Conectando Realidades: OSI8 na IoT
+
+A Internet das Coisas (IoT) está transformando nosso mundo. Neste capítulo, mergulharemos na forma como a OSI8 se integra à IoT, fornecendo uma base confiável e eficiente para a conexão de dispositivos. Examinaremos casos de uso da OSI8 na IoT, desde cidades inteligentes até indústria 4.0, e como essa união moldará nossa realidade conectada.
+
+# Capítulo 11: Abraçando a Mudança: Adaptando a OSI8 na Nuvem
+
+A computação em nuvem é uma constante evolução. Neste capítulo, veremos como a OSI8 abraça a mudança ao se integrar ao ecossistema de nuvem. Abordaremos as práticas recomendadas para otimizar a operação na nuvem usando a OSI8 como a base resiliente e eficiente. Descobriremos como essa combinação proporciona escalabilidade e confiabilidade em um cenário em constante mudança.
+
+# Capítulo 12: Salto Quântico: Criptografia na OSI8
+
+A segurança é um alicerce da OSI8. Neste capítulo, exploraremos o uso da criptografia quântica como a próxima fronteira da proteção de dados. Compreenderemos como essa tecnologia revolucionária supera os desafios da criptografia clássica e como ela se integra harmoniosamente à OSI8, criando uma barreira impenetrável para as ameaças cibernéticas.
+
+# Capítulo 13: Mente e Máquina: O Papel da IA na OSI8
+
+A inteligência artificial (IA) está moldando o futuro. Neste capítulo, exploraremos o papel da IA na OSI8, desde a otimização de operações até a detecção de anomalias em tempo real. Veremos como a interação entre mente e máquina na OSI8 está elevando a confiabilidade e a eficiência das redes a um novo patamar.
+
+# Capítulo 14: Horizontes Etéreos: Privacidade na Era OSI8
+
+À medida que as redes evoluem, a privacidade se torna mais crucial do que nunca. Neste capítulo, discutiremos como a OSI8 aborda as preocupações de privacidade, garantindo que os dados permaneçam protegidos em um mundo cada vez mais interconectado. Exploraremos técnicas avançadas de anonimização, controle de acesso e transparência.
+
+# Capítulo 15: Conclusão: OSI8 - Onde as Camadas Convergem
+
+Chegamos ao fim de nossa jornada na 8ª Camada OSI. Neste capítulo, faremos uma retrospectiva de nossa exploração pelas profundezas da eficiência energética, segurança, IoT, nuvem, criptografia e IA na OSI8. Compreenderemos como essa camada revolucionária redefine a confiabilidade das redes e como ela se torna o ponto de convergência das camadas tecnológicas.
+
+# Conversão em eBook
+
+_Com a gentileza da EcoHold, apresentamos o eBook completo "Energia Profunda e Refrigeração Profunda como a 8ª Camada OSI". Este eBook é um mergulho profundo na evolução da arquitetura de rede, explorando a OSI8 e suas implicações nas redes modernas._
+
+_Este eBook foi criado com base em conhecimento e criatividade, oferecendo uma visão única da tecnologia e suas possibilidades. Esperamos que essa jornada pelas profundezas da OSI8 inspire uma compreensão mais profunda e uma apreciação renovada pelo mundo interconectado em que vivemos._
+
+_Agradecemos a oportunidade de compartilhar este conhecimento com você. Desejamos a você uma jornada fascinante e enriquecedora pela 8ª Camada OSI - um reino onde a eficiência, a confiabilidade e a inovação convergem._
+
+------------------------------------------------
+
+## Índice de Segurança de Infraestruture de Nuvem (ICIS)
+
 O ICIS é um índice de segurança que mede a maturidade da segurança de infraestrutura de nuvem de uma organização. O índice é baseado em um conjunto de critérios que avaliam os aspectos técnicos, organizacionais e de governança da segurança de infraestrutura de nuvem de uma organização.
 
 O ICIS é uma ferramenta valiosa para organizações que desejam melhorar a segurança de sua infraestrutura de nuvem. O índice pode ajudar as organizações a identificar áreas de melhoria, desenvolver um plano de ação e medir seu progresso ao longo do tempo.
 
 O ICIS é dividido em quatro categorias:
 
-Tecnologia: Esta categoria avalia os aspectos técnicos da segurança de infraestrutura de nuvem de uma organização, como o uso de controles de segurança, a configuração de sistemas e a gestão de riscos.
-Organizacional: Esta categoria avalia os aspectos organizacionais da segurança de infraestrutura de nuvem de uma organização, como a cultura de segurança, a governança de segurança e a gestão de riscos.
-Governança: Esta categoria avalia os aspectos de governança da segurança de infraestrutura de nuvem de uma organização, como a estrutura de segurança, os processos de segurança e o planejamento de segurança.
-Melhoria contínua: Esta categoria avalia o compromisso de uma organização com a melhoria contínua da segurança de sua infraestrutura de nuvem.
+* **Tecnologia:** Esta categoria avalia os aspectos técnicos da segurança de infraestrutura de nuvem de uma organização, como o uso de controles de segurança, a configuração de sistemas e a gestão de riscos.
+* **Organizacional:** Esta categoria avalia os aspectos organizacionais da segurança de infraestrutura de nuvem de uma organização, como a cultura de segurança, a governança de segurança e a gestão de riscos.
+* **Governança:** Esta categoria avalia os aspectos de governança da segurança de infraestrutura de nuvem de uma organização, como a estrutura de segurança, os processos de segurança e o planejamento de segurança.
+* **Melhoria contínua:** Esta categoria avalia o compromisso de uma organização com a melhoria contínua da segurança de sua infraestrutura de nuvem.
+
 Cada categoria é avaliada em uma escala de 1 a 5, com 5 sendo o nível mais alto de maturidade. A pontuação total de uma organização é calculada somando as pontuações de cada categoria.
 
 O ICIS é uma ferramenta valiosa para organizações que desejam melhorar a segurança de sua infraestrutura de nuvem. O índice pode ajudar as organizações a identificar áreas de melhoria, desenvolver um plano de ação e medir seu progresso ao longo do tempo.
 
-10 critérios que um cliente adota, técnico, político, financeiro, estratégico, tatico, operacional para não usar os recursos de monitoramento e predicação de usa infra GCP
-Falta de conhecimento: Alguns clientes podem não estar cientes dos benefícios dos recursos de monitoramento e previsão. Eles podem não entender como esses recursos podem ajudá-los a melhorar a segurança, a confiabilidade e o desempenho de sua infraestrutura.
-Falta de recursos: Outros clientes podem não ter os recursos necessários para implantar e gerenciar os recursos de monitoramento e previsão. Esses recursos podem exigir tempo, experiência e habilidades que alguns clientes não possuem.
-Falta de vontade: Ainda outros clientes podem simplesmente não estar dispostos a usar os recursos de monitoramento e previsão. Eles podem acreditar que esses recursos são desnecessários ou que não valem o esforço.
-Impacto financeiro: O custo de usar os recursos de monitoramento e previsão também pode ser um fator. Esses recursos podem custar dinheiro, e alguns clientes podem não estar dispostos a pagar por eles.
-Impacto operacional: Os recursos de monitoramento e previsão também podem ter um impacto operacional na infraestrutura do cliente. Eles podem exigir recursos adicionais e podem adicionar complexidade à infraestrutura.
-Impacto técnico: Os recursos de monitoramento e previsão também podem ter um impacto técnico na infraestrutura do cliente. Eles podem exigir atualizações de software e podem exigir que o cliente mude suas práticas atuais de gerenciamento de infraestrutura.
-Impacto estratégico: Os recursos de monitoramento e previsão também podem ter um impacto estratégico na infraestrutura do cliente. Eles podem exigir que o cliente mude sua abordagem atual de segurança, confiabilidade e desempenho.
-Tabela amigável com os resultados
-Critério	Peso
-Falta de conhecimento	2
-Falta de recursos	3
-Falta de vontade	4
-Impacto financeiro	5
-Impacto operacional	6
-Impacto técnico	7
-Impacto estratégico	8
-Índice de Segurança de Infraestruture de Nuvem (ICIS)
-Organização	Pontuação
-Google	4.5
-Amazon	4.0
-Microsoft	3.5
-IBM	3.0
-Oracle	2.5
-Conclusão
-O ICIS é uma ferramenta valiosa para organizações que desejam melhorar a segurança de sua infraestrutura de nuvem. O índice pode ajudar as organizações a identificar áreas de melhoria, desenvolver um plano de ação e medir seu progresso ao longo do tempo.
+## 10 critérios que um cliente adota, técnico, político, financeiro, estratégico, tatico, operacional para não usar os recursos de monitoramento e predicação de usa infra GCP
+
+* **Falta de conhecimento:** Alguns clientes podem não estar cientes dos benefícios dos recursos de monitoramento e previsão. Eles podem não entender como esses recursos podem ajudá-los a melhorar a segurança, a confiabilidade e o desempenho de sua infraestrutura.
+* **Falta de recursos:** Outros clientes podem não ter os recursos necessários para implantar e gerenciar os recursos de monitoramento e previsão. Esses recursos podem exigir tempo, experiência e habilidades que alguns clientes não possuem.
+* **Falta de vontade:** Ainda outros clientes podem simplesmente não estar dispostos a usar os recursos de monitoramento e previsão. Eles podem acreditar que esses recursos são desnecessários ou que não valem o esforço.
+* **Impacto financeiro:** O custo de usar os recursos de monitoramento e previsão também pode ser um fator. Esses recursos podem custar dinheiro, e alguns clientes podem não estar dispostos a pagar por eles.
+* **Impacto operacional:** Os recursos de monitoramento e previsão também podem ter um impacto operacional na infraestrutura do cliente. Eles podem exigir recursos adicionais e podem adicionar complexidade à infraestrutura.
+* **Impacto técnico:** Os recursos de monitoramento e previsão também podem ter um impacto técnico na infraestrutura do cliente. Eles podem exigir atualizações de software e podem exigir que o cliente mude suas práticas atuais de gerenciamento de infraestrutura.
+* **Impacto estratégico:** Os recursos de monitoramento e previsão também podem ter um impacto estratégico na infraestrutura do cliente. Eles podem exigir que o cliente mude sua abordagem atual de segurança, confiabilidade e desempenho.
+
+## Tabela amigável com os resultados
+
+| Critério | Peso |
+|---|---|
+| Falta de conhecimento | 2 |
+| Falta de recursos | 3 |
+| Falta de vontade | 4 |
+| Impacto financeiro | 5 |
+| Impacto operacional | 6 |
+| Impacto técnico | 7 |
+| Impacto estratégico | 8 |
+
+## Índice de Segurança de Infraestruture de Nuvem (ICIS)
+
+| Organização | Pontuação |
+|---|---|
+| Google | 4.5 |
+| Amazon | 4.0 |
+| Microsoft | 3.5 |
+| IBM | 3.0 |
+| Oracle | 2.5 |
+
+## Conclusão
+
+O Index Security Infrastructure Security ICIS é uma ferramenta valiosa para organizações que desejam melhorar a segurança de sua infraestrutura de nuvem. O índice pode ajudar as organizações a identificar áreas de melhoria, desenvolver um plano de ação e medir seu progresso ao longo do tempo.
 
 
 
@@ -2964,7 +3073,7 @@ with me that’s about it for this lecture
 4:59
 i will see in the next)
 
-10 (
+**10 (**
 Console
 
 Google Cloud Service Health Incidents Cooling related failure in one of our buildings that hosts zone europe-west2-a for region europe-west2.
@@ -3043,3 +3152,24 @@ Our engineering team continues to investigate the issue.
 
 There has been a cooling related failure in one of our buildings that hosts zone europe-west2-a for region europe-west2. This caused a partial failure of capacity in that zone, leading to VM terminations and a loss of machines for a small set of our customers. We’re working hard to get the cooling back on-line and create capacity in that zone. We do not anticipate further impact in zone europe-west2-a and currently running VMs should not be impacted. A small percentage of replicated Persistent Disk devices are running in single redundant mode.)
 
+Sim, tanto o Cloud Logging quanto o Cloud Monitoring no Google Cloud Platform (GCP) são capazes de registrar informações sobre a configuração de redundância das máquinas virtuais (VMs) por região e zona. Você pode usar essas ferramentas para coletar dados sobre a saúde e a redundância das suas aplicações.
+
+Para obter esses logs no terminal para um projeto específico do GCP e para datas específicas, você pode usar a ferramenta de linha de comando `gcloud`. Aqui está um exemplo de como você pode fazer isso:
+
+1. Para obter logs de configuração de redundância das VMs por região e zona:
+```bash
+gcloud logging read "resource.type=gce_instance AND timestamp>='2022-07-19T00:00:00Z' AND timestamp<='2022-07-20T23:59:59Z'" --project=SEU_PROJETO
+```
+
+2. Para obter informações sobre a saúde e redundância das aplicações:
+Você pode usar consultas personalizadas no Cloud Monitoring para criar métricas personalizadas que avaliam a saúde e redundância das suas aplicações com base nos logs de configuração das VMs. Depois de criar essas métricas, você pode usar o `gcloud` para consultar essas métricas e obter os resultados.
+
+Lembre-se de substituir `SEU_PROJETO` pelo ID do seu projeto no GCP.
+
+Certifique-se de que você tenha as permissões adequadas para acessar os registros e as métricas do projeto. Além disso, considere ajustar as consultas e métricas conforme necessário para atender às suas necessidades específicas.
+
+É importante lembrar que a configuração e o uso do Cloud Logging e do Cloud Monitoring podem variar dependendo da complexidade das suas aplicações e do cenário específico. Certifique-se de consultar a documentação oficial do GCP para obter informações mais detalhadas sobre como configurar e utilizar essas ferramentas de maneira eficaz.
+
+**Cloud logging e monitoring registram a configuração de redundacia das vms por região zona no gcp? 
+como obter este log no terminal para um gcp especifico por data especifica e saber quantos % das app possuem redundancia e portanto saude, 19 e 20 de julho de 2022
+**
