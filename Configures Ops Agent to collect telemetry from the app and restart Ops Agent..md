@@ -1,6 +1,6 @@
 DeepEnergy and DeepCooling as the 8th OSI Layer
 
-Eco Hold <ecohold76@gmail.com>
+Eco Hold ecohold76@gmail.com
 Aug 7, 2023, 7:32 PM (5 days ago)
 to melody.mcelwee, silander, jain, abnt, contact-powerapi
 
@@ -8,23 +8,23 @@ Subject: Proposal for Inclusion of Power and Cooling as the 8th OSI Layer
 
 Dear Committee Members of ISO/TC 301 Energy Management and Energy Savings and ISO/IEC JTC 1/SC 6 Telecommunications and Information Exchange Between Systems,
 
-I hope this email finds you well. My name is José Soares Sobrinho, and I am writing to you regarding a proposal that I believe could significantly enhance the OSI reference model and address critical considerations in today's networking landscape. I am a student and researcher passionate about the field of computer networks, and I would like to present an idea for your consideration.
+I hope this email finds you well. My name is José Soares Sobrinho, and I am writing to you regarding a proposal that I believe could significantly enhance the OSI reference model and address critical considerations in today’s networking landscape. I am a student and researcher passionate about the field of computer networks, and I would like to present an idea for your consideration.
 
 The OSI reference model has been a foundational framework in the world of computer networking, providing a structured approach to understanding and designing network protocols and devices. However, as our networks evolve and become increasingly complex, there are certain aspects that the model does not adequately address. Specifically, I am referring to the critical factors of power and cooling.
 
 Cooling and power are two fundamental components for the operation of computer networks. Effective cooling is essential to maintain network equipment within safe temperature ranges, while stable power supply is necessary to ensure uninterrupted operation. Unfortunately, these crucial aspects are not explicitly integrated into the OSI reference model, potentially leading to a range of issues such as equipment failures, service interruptions, increased energy costs, and negative environmental impacts.
 
-In light of this, I propose the inclusion of a new layer, termed the "Power and Cooling Layer," as the 8th layer within the OSI reference model. This layer would address the considerations related to power supply, energy efficiency, and cooling mechanisms. Just as the other layers in the OSI model provide specific functionalities and services, this new layer would focus on ensuring that network protocols and devices are designed to effectively manage power consumption, cooling requirements, and energy efficiency.
+In light of this, I propose the inclusion of a new layer, termed the “Power and Cooling Layer,” as the 8th layer within the OSI reference model. This layer would address the considerations related to power supply, energy efficiency, and cooling mechanisms. Just as the other layers in the OSI model provide specific functionalities and services, this new layer would focus on ensuring that network protocols and devices are designed to effectively manage power consumption, cooling requirements, and energy efficiency.
 
 The integration of the Power and Cooling Layer would offer several benefits to the networking ecosystem, including:
 
-1. Improved Network Reliability: By explicitly considering power and cooling aspects, the network's overall reliability can be enhanced, reducing the risk of equipment failures due to overheating and power shortages.
+Improved Network Reliability: By explicitly considering power and cooling aspects, the network’s overall reliability can be enhanced, reducing the risk of equipment failures due to overheating and power shortages.
 
-2. Enhanced Network Performance: Proper management of power consumption and cooling can lead to optimized performance and reduced instances of service disruptions.
+Enhanced Network Performance: Proper management of power consumption and cooling can lead to optimized performance and reduced instances of service disruptions.
 
-3. Better Energy Efficiency: The Power and Cooling Layer would promote energy-efficient designs, contributing to reduced energy consumption and associated costs.
+Better Energy Efficiency: The Power and Cooling Layer would promote energy-efficient designs, contributing to reduced energy consumption and associated costs.
 
-4. Reduced Environmental Impact: By optimizing power usage and cooling mechanisms, the environmental impact of network operations can be minimized.
+Reduced Environmental Impact: By optimizing power usage and cooling mechanisms, the environmental impact of network operations can be minimized.
 
 I kindly request your consideration in discussing the inclusion of the Power and Cooling Layer in the OSI reference model within your esteemed committees. This addition could align the model with the evolving needs of modern networks and ensure that power and cooling aspects are given due importance. Moreover, I believe that the inclusion of this layer would enhance the overall sustainability and effectiveness of computer networks.
 
@@ -36,13 +36,12 @@ José Soares Sobrinho
 Email: ecohold76@gmail.com
 Phone: +5511 986 542 351
 
-
 Attachment: - Additional Documentation or References
 https://medium.com/@ecohold76/power-and-cooling-the-8th-osi-layer-d37a4da276f6
 
 )
 
-1. (YURI GRINSHTEYN: Google acquired Stackdriver back in 2014,
+(YURI GRINSHTEYN: Google acquired Stackdriver back in 2014,
 0:02
 and the suite of operations tools in Google Cloud
 0:04
@@ -50,7 +49,7 @@ has come a very long way since then.
 0:06
 Today, cloud monitoring is built right into the Cloud Console,
 0:10
-and I'm here to show you how to set up and use monitoring
+and I’m here to show you how to set up and use monitoring
 0:12
 in your cloud projects.
 0:13
@@ -61,19 +60,19 @@ This is the Stack Doctor.
 0:22
 With the integration of monitoring features
 0:23
-into the Cloud Console, you'll notice that the Stackdriver
+into the Cloud Console, you’ll notice that the Stackdriver
 0:26
 brand is gone.
 0:27
-But the functionality you've come to depend on
+But the functionality you’ve come to depend on
 0:29
-isn't changing.
+isn’t changing.
 0:30
-You'll still be able to use all of the features you're used to.
+You’ll still be able to use all of the features you’re used to.
 0:33
-Let's take a look at those, and what's new.
+Let’s take a look at those, and what’s new.
 0:35
-Let's start by selecting monitoring
+Let’s start by selecting monitoring
 0:37
 from the products menu.
 0:38
@@ -89,7 +88,7 @@ The concept of workspaces and using them
 0:49
 to aggregate monitoring data across multiple projects
 0:52
-hasn't changed.
+hasn’t changed.
 0:53
 Workspaces and their host projects
 0:54
@@ -97,19 +96,19 @@ are still how you create and retain
 0:56
 monitoring configuration data.
 0:58
-Let's take a look at the core features of cloud monitoring.
+Let’s take a look at the core features of cloud monitoring.
 1:01
-We'll start by setting up a VM and deploying a web
+We’ll start by setting up a VM and deploying a web
 1:03
 server on it.
 1:04
-From there, we'll install the monitoring agent,
+From there, we’ll install the monitoring agent,
 1:06
 set up an uptime check, and configure a dashboard
 1:08
 to show us the health of our new service.
 1:10
-We'll put the link to the full steps in the episode notes
+We’ll put the link to the full steps in the episode notes
 1:13
 so you can easily follow along.
 1:15
@@ -127,7 +126,7 @@ in the console to open a secure terminal
 1:28
 session to your new VM.
 1:29
-We're going to use this to do two things--
+We’re going to use this to do two things–
 1:31
 install the Apache web server and install the monitoring
 1:34
@@ -145,13 +144,13 @@ the monitoring agent.
 1:47
 Now that the environment is set up,
 1:49
-we're ready to configure cloud monitoring.
+we’re ready to configure cloud monitoring.
 1:51
-Let's first create an uptime check
+Let’s first create an uptime check
 1:53
 that will monitor our web service
 1:54
-and potentially notify us if there's a problem.
+and potentially notify us if there’s a problem.
 1:56
 From the Products menu, select Monitoring
 1:58
@@ -159,7 +158,7 @@ and go to Uptime Checks.
 2:00
 Create a new one.
 2:00
-You'll need to give the machine's external IP address
+You’ll need to give the machine’s external IP address
 2:02
 to enter as the target here.
 2:04
@@ -175,7 +174,7 @@ You may want to assign a static IP address to this machine,
 2:14
 if this is a service with external users or consumers.
 2:18
-From here, let's configure a dashboard
+From here, let’s configure a dashboard
 2:20
 so we can easily visualize the health of our small service.
 2:22
@@ -205,7 +204,7 @@ and use the Count False aggregator to only show you
 2:47
 failures.
 2:48
-Once you've saved this chart, you
+Once you’ve saved this chart, you
 2:50
 can follow a similar process to add other charts
 2:52
@@ -225,27 +224,27 @@ Looking at metrics like CPU utilization of your VM
 3:03
 is a great place to start.
 3:05
-One of the new features that's being made available
+One of the new features that’s being made available
 3:08
 with this release is the Dashboards API.
 3:10
-You'll now be able to automate the creation of dashboards
+You’ll now be able to automate the creation of dashboards
 3:12
 in your workspaces and generally automate
 3:14
 more of your monitoring setup.
 3:16
-We'll come back to dashboard and monitoring
+We’ll come back to dashboard and monitoring
 3:18
 automation in future episodes.
 3:19
-Once your monitoring is setup, you'll
+Once your monitoring is setup, you’ll
 3:21
 probably want alerting to get notified
 3:23
 if the service goes down.
 3:24
-Since we've already set up the monitoring,
+Since we’ve already set up the monitoring,
 3:26
 we can create a new alerting policy
 3:28
@@ -283,11 +282,11 @@ I hope you are as excited about the future of cloud monitoring
 3:59
 and these new features as I am.
 4:00
-That's it for this episode.
+That’s it for this episode.
 4:02
 Come back next time, when we take a look
 4:03
-at what's new in cloud logging.
+at what’s new in cloud logging.
 4:05
 This is the Stack Doctor.
 4:06
@@ -296,7 +295,6 @@ Stay healthy out there.
 [MUSIC PLAYING])
 2 (Guia de início rápido: monitorar uma máquina virtual do Compute Engine
 Monitorar uma máquina virtual do Compute Engine
-
 bookmark_border
 Neste documento, mostramos como monitorar um servidor da Web Apache instalado em uma instância de máquina virtual (VM) do Compute Engine.
 
@@ -359,10 +357,8 @@ Para abrir um terminal na instância, na coluna Conectar, clique em SSH.
 
 Para atualizar as listas de pacotes na instância, execute o seguinte comando:
 
-
 sudo apt-get update
 Para instalar um servidor HTTP Apache2, execute o seguinte comando:
-
 
 sudo apt-get install apache2 php7.0
 Observação: se o comando anterior falhar, use sudo apt-get install apache2 php. Se você for solicitado a continuar a instalação, insira Y.
@@ -379,44 +375,41 @@ Para abrir um terminal na instância de VM, na coluna Conectar, clique em SSH.
 
 Para instalar o agente de operações, execute o seguinte comando:
 
-
-   curl -sSO https://dl.google.com/cloudagents/add-google-cloud-ops-agent-repo.sh
-   sudo bash add-google-cloud-ops-agent-repo.sh --also-install
+curl -sSO https://dl.google.com/cloudagents/add-google-cloud-ops-agent-repo.sh
+sudo bash add-google-cloud-ops-agent-repo.sh --also-install
 Você verá o seguinte: google-cloud-ops-agent installation succeeded.
 
 Copie o comando a seguir e cole-o no terminal:
 
-
-# Configures Ops Agent to collect telemetry from the app and restart Ops Agent.
-
+Configures Ops Agent to collect telemetry from the app and restart Ops Agent.
 set -e
 
-# Create a back up of the existing file so existing configurations are not lost.
+Create a back up of the existing file so existing configurations are not lost.
 sudo cp /etc/google-cloud-ops-agent/config.yaml /etc/google-cloud-ops-agent/config.yaml.bak
 
-# Configure the Ops Agent.
+Configure the Ops Agent.
 sudo tee /etc/google-cloud-ops-agent/config.yaml > /dev/null << EOF
 metrics:
-  receivers:
-    apache:
-      type: apache
-  service:
-    pipelines:
-      apache:
-        receivers:
-          - apache
+receivers:
+apache:
+type: apache
+service:
+pipelines:
+apache:
+receivers:
+- apache
 logging:
-  receivers:
-    apache_access:
-      type: apache_access
-    apache_error:
-      type: apache_error
-  service:
-    pipelines:
-      apache:
-        receivers:
-          - apache_access
-          - apache_error
+receivers:
+apache_access:
+type: apache_access
+apache_error:
+type: apache_error
+service:
+pipelines:
+apache:
+receivers:
+- apache_access
+- apache_error
 EOF
 
 sudo service google-cloud-ops-agent restart
@@ -436,8 +429,7 @@ Na coluna Conectar, clique em SSH para abrir um terminal para a instância de VM
 
 Para gerar tráfego no servidor da Web Apache, execute o seguinte comando:
 
-
-timeout 120 bash -c -- 'while true; do curl localhost; sleep $((RANDOM % 4)) ; done'
+timeout 120 bash -c – ‘while true; do curl localhost; sleep $((RANDOM % 4)) ; done’
 O comando anterior gera tráfego fazendo uma solicitação ao servidor da Web Apache a cada quatro segundos.
 
 Para visualizar o painel Visão geral do Apache GCE, faça o seguinte:
@@ -445,13 +437,13 @@ Para visualizar o painel Visão geral do Apache GCE, faça o seguinte:
 No Console do Google Cloud, selecione Monitoring ou clique no botão a seguir:
 Acessar Monitoring
 
-No painel de navegação, selecione  Painéis de dados.
+No painel de navegação, selecione Painéis de dados.
 
 Em Todos os painéis, selecione o painel Apache GCE Overview. O painel é aberto.
 
 No painel, há vários gráficos que contêm informações sobre a integração do Apache e do Compute Engine:
 
-Exemplo do painel "Visão geral do Apache GCE".
+Exemplo do painel “Visão geral do Apache GCE”.
 
 Crie uma política de alertas
 Observação: se você não tiver configurado um canal de notificação por e-mail, consulte Configurar a notificação por e-mail na seção Antes de começar deste guia de início rápido.
@@ -507,8 +499,7 @@ Na coluna Conectar, clique em SSH para abrir um terminal para a instância de VM
 
 No terminal, digite o seguinte comando:
 
-
-timeout 120 bash -c -- 'while true; do curl localhost; sleep $((RANDOM % 4)) ; done'
+timeout 120 bash -c – ‘while true; do curl localhost; sleep $((RANDOM % 4)) ; done’
 O comando anterior gera tráfego no servidor da Web do Apache.
 
 Uma notificação por e-mail é enviada depois que o valor limite de taxa de tráfego de 4 KiB/s é excedido no servidor da Web Apache. O processo pode levar alguns minutos para ser concluído.
@@ -522,17 +513,15 @@ Para evitar cobranças na sua conta do Google Cloud pelos recursos usados nesta 
 
 Se você criou um novo projeto do Google Cloud para este guia de início rápido, exclua o projeto do Google Cloud:
 
-
 Cuidado: excluir um projeto tem os seguintes efeitos:
 Tudo no projeto é excluído. Se você tiver usado um projeto existente para as tarefas neste documento, a exclusão dele incluirá a exclusão de quaisquer outros trabalhos feitos no projeto.
 Os IDs do projeto personalizados são perdidos. Ao criar o projeto, você pode ter criado um código do projeto personalizado para ser usado no futuro. Para preservar os URLs que usam o ID do projeto, como um URL appspot.com, exclua recursos específicos do projeto, em vez de excluir o projeto inteiro.
 No Console do Google Cloud, acesse a página Gerenciar recursos.
-Acessar "Gerenciar recursos"
+Acessar “Gerenciar recursos”
 
 Na lista de projetos, selecione o projeto que você quer excluir e clique em Excluir .
 Na caixa de diálogo, digite o ID do projeto e clique em Encerrar para excluí-lo.
 Se você criou uma nova VM em um projeto, exclua a instância de VM:
-
 
 No Console do Google Cloud, acesse a página Instâncias de VMs.
 Acessar instâncias de VM
@@ -542,7 +531,6 @@ Para excluir a instância, clique em more_vert Mais ações, clique em Excluir e
 Se você usou uma instância de VM atual neste guia de início rápido, desinstale o agente de operações:
 
 Para desinstalar o agente de operações, abra o terminal e execute o seguinte comando:
-
 
 sudo bash add-google-cloud-ops-agent-repo.sh --uninstall
 A seguir
@@ -659,89 +647,86 @@ Uma série temporal é uma estrutura de dados que contém medições com carimbo
 
 Por exemplo, o exemplo a seguir ilustra uma série temporal:
 
+“timeSeries”: [
+{
+“points”: [
+{
+“interval”: {
+“startTime”: “2020-07-27T20:20:21.597143Z”,
+“endTime”: “2020-07-27T20:20:21.597143Z”
+},
+“value”: {
+“doubleValue”: 0.473005
+}
+},
+{
+“interval”: {
+“startTime”: “2020-07-27T20:19:21.597239Z”,
+“endTime”: “2020-07-27T20:19:21.597239Z”
+},
+“value”: {
+“doubleValue”: 0.473025
+}
+},
+],
+“resource”: {
+“type”: “gce_instance”,
+“labels”: {
+“instance_id”: “2708613220420473591”,
+“zone”: “us-east1-b”,
+“project_id”: “sampleproject”
+}
+},
+“metric”: {
+“labels”: {
+“device”: “sda1”,
+“state”: “free”
+},
+“type”: "agent.googleapis.com/disk/percent_used"
+},
+“metricKind”: “GAUGE”,
+“valueType”: “DOUBLE”,
 
-  "timeSeries": [
-    {
-      "points": [
-        {
-          "interval": {
-            "startTime": "2020-07-27T20:20:21.597143Z",
-            "endTime": "2020-07-27T20:20:21.597143Z"
-          },
-          "value": {
-            "doubleValue": 0.473005
-          }
-        },
-        {
-          "interval": {
-            "startTime": "2020-07-27T20:19:21.597239Z",
-            "endTime": "2020-07-27T20:19:21.597239Z"
-          },
-          "value": {
-            "doubleValue": 0.473025
-          }
-        },
-      ],
-      "resource": {
-        "type": "gce_instance",
-        "labels": {
-          "instance_id": "2708613220420473591",
-          "zone": "us-east1-b",
-          "project_id": "sampleproject"
-        }
-      },
-      "metric": {
-        "labels": {
-          "device": "sda1",
-          "state": "free"
-        },
-        "type": "agent.googleapis.com/disk/percent_used"
-      },
-      "metricKind": "GAUGE",
-      "valueType": "DOUBLE",
-
-    },
+},
 Veja alguns detalhes sobre o que uma série temporal contém:
 
 A matriz points contém as medidas com carimbo de data/hora.
 
 No exemplo anterior, a matriz points contém dois valores:
 
-
-  "points": [
-    {
-      "interval": {
-        "startTime": "2020-07-27T20:20:21.597143Z",
-        "endTime": "2020-07-27T20:20:21.597143Z"
-      },
-      "value": {
-        "doubleValue": 0.473005
-      }
-    },
-    {
-      "interval": {
-        "startTime": "2020-07-27T20:19:21.597239Z",
-        "endTime": "2020-07-27T20:19:21.597239Z"
-      },
-      "value": {
-        "doubleValue": 0.473025
-      }
-    },
-  ],
+“points”: [
+{
+“interval”: {
+“startTime”: “2020-07-27T20:20:21.597143Z”,
+“endTime”: “2020-07-27T20:20:21.597143Z”
+},
+“value”: {
+“doubleValue”: 0.473005
+}
+},
+{
+“interval”: {
+“startTime”: “2020-07-27T20:19:21.597239Z”,
+“endTime”: “2020-07-27T20:19:21.597239Z”
+},
+“value”: {
+“doubleValue”: 0.473025
+}
+},
+],
 Para entender o significado de um valor, consulte os outros dados incluídos na série temporal e as definições desses dados.
 
 O campo resource descreve o componente de hardware ou software que está sendo monitorado. No Cloud Monitoring, o componente de hardware ou software é chamado de recurso monitorado. Exemplos de recursos monitorados incluem instâncias do Compute Engine e aplicativos do App Engine. Para ver uma lista completa de recursos monitorados, consulte a Lista de recursos monitorados.
 
 No exemplo anterior, o campo resource é o seguinte:
 
-
-  "resource": {
-    "type": "gce_instance",
-    "labels": {
-      "instance_id": "2708613220420473591",
-      "zone": "us-east1-b",
-      "project_id": "sampleproject"
-    }
+“resource”: {
+“type”: “gce_instance”,
+“labels”: {
+“instance_id”: “2708613220420473591”,
+“zone”: “us-east1-b”,
+“project_id”: “sampleproject”
+}
 O campo type lista o recurso monitorado como um gce_instance, que indica que essas medidas são tomadas em uma instância de VM do Compute Engine.
 
 O campo labels contém pares de chave-valor que fornecem informações adicionais sobre o recurso monitorado. Para um tipo gce_instance, os rótulos identificam a instância de VM que está sendo monitorada.
@@ -750,14 +735,13 @@ O campo metric descreve o que está sendo medido.
 
 No exemplo anterior, o campo metric é como mostrado:
 
-
-  "metric": {
-    "labels": {
-      "device": "sda1",
-      "state": "free"
-    },
-    "type": "agent.googleapis.com/disk/percent_used"
-  },
+“metric”: {
+“labels”: {
+“device”: “sda1”,
+“state”: “free”
+},
+“type”: "agent.googleapis.com/disk/percent_used"
+},
 Para os serviços do Google, o campo type especifica o serviço e o que está sendo monitorado. Neste exemplo, o agente do Cloud Monitoring é o serviço e está avaliando a porcentagem do disco usado. Quando o campo type começa com custom ou external, a métrica é personalizada ou definida por terceiros.
 
 O campo labels contém pares de chave-valor que fornecem informações adicionais sobre a medição. Esses rótulos são definidos como parte do MetricDescriptor, que é uma estrutura de dados que define os atributos dos dados medidos. O MetricDescriptor da métrica agent.googleapis.com/disk/percent_used inclui os rótulos device e state.
@@ -795,23 +779,23 @@ February 24, 2020
 Raghu Nandan
 PM Director of Operations Management
 
-Our suite of operations products has come a long way since the acquisition of Stackdriver back in 2014. The suite has constantly evolved with significant new capabilities since then, and today we reach another important milestone with complete integration into the Google Cloud Console. We’re now saying goodbye to the Stackdriver brand, and announcing an operations suite of products, which includes Cloud Logging, Cloud Monitoring, Cloud Trace, Cloud Debugger, and Cloud Profiler. 
+Our suite of operations products has come a long way since the acquisition of Stackdriver back in 2014. The suite has constantly evolved with significant new capabilities since then, and today we reach another important milestone with complete integration into the Google Cloud Console. We’re now saying goodbye to the Stackdriver brand, and announcing an operations suite of products, which includes Cloud Logging, Cloud Monitoring, Cloud Trace, Cloud Debugger, and Cloud Profiler.
 
-The Stackdriver functionality you’ve come to depend on isn’t changing. Over the years, these operations products have seen a strong growth in usage by not just application developers and DevOps teams, but also IT operators and security teams. Complete integration of the products into the Cloud Console, along with in-context presence within the key service pages themselves—like the integrations into Compute Engine, Google Kubernetes Engine, Cloud SQL, and Dataflow management consoles—brings a great experience to all users. Putting operations tasks a quick click away, without users losing context of the activities they had been performing, shows how seamless an operations journey can be. 
+The Stackdriver functionality you’ve come to depend on isn’t changing. Over the years, these operations products have seen a strong growth in usage by not just application developers and DevOps teams, but also IT operators and security teams. Complete integration of the products into the Cloud Console, along with in-context presence within the key service pages themselves—like the integrations into Compute Engine, Google Kubernetes Engine, Cloud SQL, and Dataflow management consoles—brings a great experience to all users. Putting operations tasks a quick click away, without users losing context of the activities they had been performing, shows how seamless an operations journey can be.
 
-In addition to this console integration, we’re very happy to share some of the progress in our products, with lots of exciting features launching today. 
+In addition to this console integration, we’re very happy to share some of the progress in our products, with lots of exciting features launching today.
 
 Cloud Logging
 
-Continuing with our goal to build easy-to-use products, we have completely overhauled the Logs Viewer and will be rolling this out to everyone over the next week. This makes it even easier for you to quickly identify and troubleshoot issues. We’re also pleased to announce that the ability to customize how long logs are retained is now available in beta. With both the new Cloud Logging user interface and the new 10-year log retention feature, you can search logs quickly and identify trends and correlations. We also understand that in some cases, it is very useful to export logs from Cloud Logging to other locations like BigQuery, Cloud Storage, or even third-party log management systems. To make this easier, we are making Logs Router generally available. Similarly, data from Cloud Trace can also be exported to BigQuery. Log Router’s support for customer management encryption keys (CMEK) also makes this a good solution for environments needing to meet that security need for compliance and other purposes. 
+Continuing with our goal to build easy-to-use products, we have completely overhauled the Logs Viewer and will be rolling this out to everyone over the next week. This makes it even easier for you to quickly identify and troubleshoot issues. We’re also pleased to announce that the ability to customize how long logs are retained is now available in beta. With both the new Cloud Logging user interface and the new 10-year log retention feature, you can search logs quickly and identify trends and correlations. We also understand that in some cases, it is very useful to export logs from Cloud Logging to other locations like BigQuery, Cloud Storage, or even third-party log management systems. To make this easier, we are making Logs Router generally available. Similarly, data from Cloud Trace can also be exported to BigQuery. Log Router’s support for customer management encryption keys (CMEK) also makes this a good solution for environments needing to meet that security need for compliance and other purposes.
 
 Cloud Monitoring
 
-Our biggest change of all that you’ll see in the console is Cloud Monitoring, as this was the last Stackdriver product to migrate over to our Google Cloud Console. You’ll now find a better designed, easy-to-navigate site, and important new features targeted to make your life easier. We are increasing our metrics retention to 24 months and writing metrics at up to 10-second granularity. The increased granularity is especially useful when making quick operational decisions like load balancing, scaling, etc. Like Cloud Logging, you can now access what you need more quickly, as well as prepare for future troubleshooting with longer retention. 
+Our biggest change of all that you’ll see in the console is Cloud Monitoring, as this was the last Stackdriver product to migrate over to our Google Cloud Console. You’ll now find a better designed, easy-to-navigate site, and important new features targeted to make your life easier. We are increasing our metrics retention to 24 months and writing metrics at up to 10-second granularity. The increased granularity is especially useful when making quick operational decisions like load balancing, scaling, etc. Like Cloud Logging, you can now access what you need more quickly, as well as prepare for future troubleshooting with longer retention.
 
 An additional key launch is Dashboards API, which lets you develop a dashboard once and share it multiple times in other workspaces and environments. Users might also notice better metrics recommendations by surfacing to the top of the selection list the most popular metrics for a given resource type. This is a great example of understanding the preferred metric by the millions of users on Google Cloud, and surfacing them quickly in other situations.
 
-This release makes it possible to route alerts to independent systems with Pub/Sub support, continuing with the ability to connect a broad variety of operational tools with Cloud Monitoring. To keep up with the needs of some of our largest users, we are also expanding support for hundreds of projects within a Workspace—providing a single point of control and management interface for multiple projects. Stay tuned for more details about all of these new capabilities in a series of blog posts over the next few weeks. 
+This release makes it possible to route alerts to independent systems with Pub/Sub support, continuing with the ability to connect a broad variety of operational tools with Cloud Monitoring. To keep up with the needs of some of our largest users, we are also expanding support for hundreds of projects within a Workspace—providing a single point of control and management interface for multiple projects. Stay tuned for more details about all of these new capabilities in a series of blog posts over the next few weeks.
 
 2020 will continue to see momentum for our operations suite of products, and we’re looking forward to the road ahead as we continue to help developers and operators across the world to manage and troubleshoot issues quickly and keep their systems up and running.
 
@@ -828,45 +812,46 @@ O preço do pacote de operações do Google Cloud permite que você controle o u
 As tabelas a seguir resumem as informações de preços do Cloud Logging, do Cloud Monitoring e do Cloud Trace:
 
 Resumo dos preços do Cloud Logging
-Recurso	Preço1	Cota gratuita por mês
-Armazenamento do Logging*	US$ 0, 50/GiB;
-Cobrança única por streaming de registros para armazenamento de bucket de registros para indexação, consulta e análise.Inclui até 30 dias de armazenamento em buckets de registro. Não há cobranças adicionais para consultar e analisar dados de registros.	Primeiros 50 GiB/projeto/mês
-Retenção do Logging†	US$ 0,01 por GiB por mês para registros retidos por mais de 30 dias; faturamento mensal de acordo com a retenção.	Os registros retidos para o período de retenção padrão não geram custo de retenção.
-Entrada Logging‡	Sem custo extra	Não relevante
-Roteador de registrosCheck	Sem custo extra	Não relevante
-Análise de registros♣	Sem custo extra	Não relevante
-*  O volume de armazenamento conta o tamanho real das entradas de registro antes da indexação. Não há cobranças de armazenamento para registros armazenados no bucket _Required.
-†  Não há cobranças de retenção para registros armazenados no bucket de registros _Required, que tem um período de armazenamento fixo de 400 dias.
-‡  O Ingress é definido como os registros recebidos pela API Cloud Logging.
-Check  O roteamento de registros é definido como encaminhar registros recebidos para um destino compatível. Cobranças de destino podem ser aplicadas aos registros roteados.
-♣  Não há cobrança para fazer upgrade de um bucket de registros para usar a análise de registro ou para emitir consultas SQL na página Análise de registros.
+Recurso Preço1 Cota gratuita por mês
+Armazenamento do Logging* US$ 0, 50/GiB;
+Cobrança única por streaming de registros para armazenamento de bucket de registros para indexação, consulta e análise.Inclui até 30 dias de armazenamento em buckets de registro. Não há cobranças adicionais para consultar e analisar dados de registros. Primeiros 50 GiB/projeto/mês
+Retenção do Logging† US$ 0,01 por GiB por mês para registros retidos por mais de 30 dias; faturamento mensal de acordo com a retenção. Os registros retidos para o período de retenção padrão não geram custo de retenção.
+Entrada Logging‡ Sem custo extra Não relevante
+Roteador de registrosCheck Sem custo extra Não relevante
+Análise de registros♣ Sem custo extra Não relevante
+
+O volume de armazenamento conta o tamanho real das entradas de registro antes da indexação. Não há cobranças de armazenamento para registros armazenados no bucket _Required.
+† Não há cobranças de retenção para registros armazenados no bucket de registros _Required, que tem um período de armazenamento fixo de 400 dias.
+‡ O Ingress é definido como os registros recebidos pela API Cloud Logging.
+Check O roteamento de registros é definido como encaminhar registros recebidos para um destino compatível. Cobranças de destino podem ser aplicadas aos registros roteados.
+♣ Não há cobrança para fazer upgrade de um bucket de registros para usar a análise de registro ou para emitir consultas SQL na página Análise de registros.
 Observação: o idioma dos preços do Cloud Logging mudou em 19 de julho de 2023. No entanto, as cotas gratuitas e as taxas não mudaram. Sua fatura pode se referir à linguagem de preços antiga.
 Resumo dos preços do Cloud Monitoring
-
-Recurso	Preço	Cota gratuita por mês	Início da vigência
+Recurso Preço Cota gratuita por mês Início da vigência
 Todos os dados do Monitoring
-, exceto os dados ingeridos usando o Managed Service para Prometheus	US$ 0,2580/MiB1: primeiros 150–100.000 MiB
+, exceto os dados ingeridos usando o Managed Service para Prometheus US$ 0,2580/MiB1: primeiros 150–100.000 MiB
 US$ 0,1510/MiB: próximos 100.000–250.000 MiB
-US$ 0,0610/MiB : mais de 250.000 MiB	Todas as métricas não faturáveis do Google Cloud
-Primeiros 150 MiB por conta de faturamento para métricas cobradas por bytes ingeridos	1º de julho de 2018
-Métricas ingeridas usando o Google Cloud Managed Service para Prometheus, incluindo métricas do plano de controle do GKE	US$ 0,15/milhão de amostras†: primeiras 0 a 50 bilhões de amostras ingeridas#
+US$ 0,0610/MiB : mais de 250.000 MiB Todas as métricas não faturáveis do Google Cloud
+Primeiros 150 MiB por conta de faturamento para métricas cobradas por bytes ingeridos 1º de julho de 2018
+Métricas ingeridas usando o Google Cloud Managed Service para Prometheus, incluindo métricas do plano de controle do GKE US$ 0,15/milhão de amostras†: primeiras 0 a 50 bilhões de amostras ingeridas#
 US$ 0,12/milhão de amostras: próximas 50 a 250 bilhões de amostras ingeridas
 US$ 0,09/milhão de amostras: próximas 250-500 bilhões de amostras ingeridas
-US$ 0,06/milhões de amostras: >500 bilhões de amostras ingeridas	Não relevante	16 de maio de 2022
-Como monitorar dados ingeridos usando métricas de carga de trabalho do GKE	As métricas de carga de trabalho do GKE estão obsoletas e foram removidas no GKE 1.24. Durante o período de suspensão de uso, a ingestão de métricas de carga de trabalho do GKE não será cobrada.	Não relevante	Não relevante
-Chamadas da API Monitoring	US$ 0,01/1.000 chamadas de API de leitura
-(as chamadas de gravação são gratuitas)	Primeiro milhão de chamadas de API de leitura incluídas por conta de faturamento	1º de julho de 2018
-Execução de monitoramento de verificações de tempo de atividade	USD 0,30/1.000 execuções‡	1 milhão de execuções por projeto do Google Cloud	1º de outubro de 2022
-Execução de monitores sintéticos de monitoramento	USD 1,20/1.000 execuções*	100 execuções por conta de faturamento	1o de novembro de 2023
-†  O Google Cloud Managed Service para Prometheus usa o armazenamento do Cloud Monitoring para dados de métricas criados externamente e usa a API Monitoring para recuperar esses dados. O serviço gerenciado para o Prometheus mede com base em amostras ingeridas em vez de bytes, de acordo com as convenções do Prometheus. Para mais informações sobre a medição baseada em amostra, consulte Preços para controle e previsibilidade. Para exemplos computacionais, consulte Exemplos de preços com base em amostras ingeridas.
-#  As amostras são contabilizadas por conta de faturamento.
-‡  As execuções são cobradas na conta de faturamento em que são definidas. Para mais informações, consulte Preços para execução da verificação de tempo de atividade.
-*  As execuções são cobradas na conta de faturamento em que estão definidas. Para cada execução, é possível receber cobranças extras de outros serviços do Google Cloud, incluindo serviços como Cloud Functions, Cloud Storage e Cloud Logging. Para informações sobre essas cobranças extras, consulte o documento de preços do respectivo serviço do Google Cloud.
-Resumo dos preços do Cloud Trace
-Recurso	Preço	Cota gratuita por mês	Início da vigência
-Ingestão do Trace	US$ 0,20/milhão de períodos	Primeiros 2,5 milhões de períodos	1º de novembro de 2018
-Para informações detalhadas sobre os custos dos produtos do pacote de operações do Google Cloud, consulte as seguintes seções desta página:
+US$ 0,06/milhões de amostras: >500 bilhões de amostras ingeridas Não relevante 16 de maio de 2022
+Como monitorar dados ingeridos usando métricas de carga de trabalho do GKE As métricas de carga de trabalho do GKE estão obsoletas e foram removidas no GKE 1.24. Durante o período de suspensão de uso, a ingestão de métricas de carga de trabalho do GKE não será cobrada. Não relevante Não relevante
+Chamadas da API Monitoring US$ 0,01/1.000 chamadas de API de leitura
+(as chamadas de gravação são gratuitas) Primeiro milhão de chamadas de API de leitura incluídas por conta de faturamento 1º de julho de 2018
+Execução de monitoramento de verificações de tempo de atividade USD 0,30/1.000 execuções‡ 1 milhão de execuções por projeto do Google Cloud 1º de outubro de 2022
+Execução de monitores sintéticos de monitoramento USD 1,20/1.000 execuções* 100 execuções por conta de faturamento 1o de novembro de 2023
+† O Google Cloud Managed Service para Prometheus usa o armazenamento do Cloud Monitoring para dados de métricas criados externamente e usa a API Monitoring para recuperar esses dados. O serviço gerenciado para o Prometheus mede com base em amostras ingeridas em vez de bytes, de acordo com as convenções do Prometheus. Para mais informações sobre a medição baseada em amostra, consulte Preços para controle e previsibilidade. Para exemplos computacionais, consulte Exemplos de preços com base em amostras ingeridas.
 
+As amostras são contabilizadas por conta de faturamento.
+‡ As execuções são cobradas na conta de faturamento em que são definidas. Para mais informações, consulte Preços para execução da verificação de tempo de atividade.
+
+As execuções são cobradas na conta de faturamento em que estão definidas. Para cada execução, é possível receber cobranças extras de outros serviços do Google Cloud, incluindo serviços como Cloud Functions, Cloud Storage e Cloud Logging. Para informações sobre essas cobranças extras, consulte o documento de preços do respectivo serviço do Google Cloud.
+Resumo dos preços do Cloud Trace
+Recurso Preço Cota gratuita por mês Início da vigência
+Ingestão do Trace US$ 0,20/milhão de períodos Primeiros 2,5 milhões de períodos 1º de novembro de 2018
+Para informações detalhadas sobre os custos dos produtos do pacote de operações do Google Cloud, consulte as seguintes seções desta página:
 Cloud Logging
 Cloud Monitoring
 Error Reporting
@@ -883,10 +868,10 @@ Com base nos dados de uso atuais, é possível fazer uma estimativa das faturas 
 
 Por exemplo, uma configuração em que toda instância de VM do Compute Engine gera 10 GiB de registros sujeitos a cobrança e 20 MiB de métricas sujeitas a cobrança por mês. Ao usar a calculadora de preços, você determina o custo estimado do Cloud Monitoring e do Cloud Logging:
 
-1 VM	10 VMs	100 VMs	1.000 VMs
-Custo de métricas por mês	US$ 0,00	US$ 12,90	US$ 477,30	US$ 5.121,30
-Custo da geração de registros por mês	US$ 0,00	US$ 25,00	US$ 475,00	US$ 4.975,00
-Custo total:	US$ 0,00	US$ 37,90	US$ 952,30	US$ 10.096,30
+1 VM 10 VMs 100 VMs 1.000 VMs
+Custo de métricas por mês US$ 0,00 US$ 12,90 US$ 477,30 US$ 5.121,30
+Custo da geração de registros por mês US$ 0,00 US$ 25,00 US$ 475,00 US$ 4.975,00
+Custo total: US$ 0,00 US$ 37,90 US$ 952,30 US$ 10.096,30
 Como configurar um alerta de faturamento
 Para receber notificações se as cobranças faturáveis ou previstas excederem um orçamento, crie um alerta na página Orçamentos e alertas do Console do Google Cloud:
 
@@ -948,10 +933,10 @@ Preços de retenção
 Observação : a partir de 1o de abril de 2023, os custos de retenção se aplicam a dados de registros retidos por mais tempo do que o período de armazenamento padrão do bucket de registros. Para detalhes sobre preços, consulte Resumo dos preços do Cloud Logging. Para revisar o armazenamento faturável para seus buckets de registro, acesse a página Armazenamento de registros do Console do Google Cloud.
 A tabela a seguir lista os períodos de armazenamento de dados para registros armazenados em buckets:
 
-Bucket de registros	Período de armazenamento padrão	Armazenamento personalizado
-_Required	400 dias	Não configurável
-_Default	30 dias	Configurável
-Definido pelo usuário	30 dias	Configurável
+Bucket de registros Período de armazenamento padrão Armazenamento personalizado
+_Required 400 dias Não configurável
+_Default 30 dias Configurável
+Definido pelo usuário 30 dias Configurável
 O Logging cobra custos de retenção quando os registros são retidos por mais tempo do que o período de armazenamento padrão. Não é possível configurar o período de armazenamento do bucket de registros _Required. Não há custos de armazenamento quando os registros são armazenados apenas para o período de armazenamento padrão do bucket de registros.
 
 Se você diminuir o período de armazenamento de um bucket de registros, haverá um período de carência de sete dias em que os registros expirados não serão excluídos. Não é possível consultar ou visualizar registros expirados. No entanto, nesses sete dias, é possível restaurar o acesso total estendendo o período de armazenamento do bucket de registros. Os registros armazenados durante o período de carência são contabilizados nos custos de retenção.
@@ -977,30 +962,29 @@ As métricas com base em registros definidas pelo usuário são uma classe de m�
 
 Para mais informações, consulte Visão geral das métricas com base em registros.
 
-
 Criar política de alertas em bytes de registro ingeridos mensalmente
 Para criar uma política de alertas acionada quando o número de bytes de registro gravados nos buckets exceder o limite definido pelo usuário do Cloud Logging, use as configurações a seguir.
 
 Etapas para criar uma política de alertas
 Novo estado
-Campo	
+Campo
 Valor
-Recurso e métrica	No menu Recursos, selecione Global.
+Recurso e métrica No menu Recursos, selecione Global.
 No menu Categorias de métrica, selecione Métrica com base em registros.
 No menu Métricas, selecione Bytes de registro mensais ingeridos.
-Filtrar	Nenhuma.
+Filtrar Nenhuma.
 Várias séries
-Agregação de série temporal	sum
-Janela contínua	60 m
-Função de janela contínua	max
+Agregação de série temporal sum
+Janela contínua 60 m
+Função de janela contínua max
 Campo
-Configurar gatilho de alerta	
+Configurar gatilho de alerta
 Valor
-Tipo de condição	Threshold
-Acionador de alerta	Any time series violates
-Posição do limite	Above threshold
-Valor do limite	Você determina o valor aceitável.
-Teste a janela novamente	O valor mínimo aceitável é de 30 minutos.
+Tipo de condição Threshold
+Acionador de alerta Any time series violates
+Posição do limite Above threshold
+Valor do limite Você determina o valor aceitável.
+Teste a janela novamente O valor mínimo aceitável é de 30 minutos.
 Cloud Monitoring
 O Monitoring cobra pelos seguintes itens:
 
@@ -1129,34 +1113,34 @@ Cenário 1: você tem 1.000 recursos e cada um grava 75 métricas. Essas são ap
 
 Ingestão mensal: 25.063 MiB: 0,33416748 MiB para uma métrica * 75.000 (ou seja, 1.000 recursos, 75 métricas)
 Custo aproximado por mês: US$ 0,00 (as métricas do Google Cloud são gratuitas)
-MiB ingeridos	Taxa (US$/MiB)	Custo (US$)
-Ilimitados	0,00	US$ 0,00
-Total	25.063		US$ 0,00
+MiB ingeridos Taxa (US$/MiB) Custo (US$)
+Ilimitados 0,00 US$ 0,00
+Total 25.063 US$ 0,00
 Cenário 2: você tem 1.000 recursos e cada um grava 75 métricas personalizadas. Essas gravações de métricas estão sujeitas a cobranças e têm uma taxa de um ponto de dados por minuto.
 
 Ingestão mensal: 25.063 MiB (mesmo cenário acima)
 Custo aproximado por mês: US$ 6.427,55
-MiB ingeridos	Taxa (US$/MiB)	Custo (US$)
-150	0,00	US$ 0,00
-24.913	0,258	US$ 6.427,55
-Total	25.063		US$ 6.427,55
+MiB ingeridos Taxa (US$/MiB) Custo (US$)
+150 0,00 US$ 0,00
+24.913 0,258 US$ 6.427,55
+Total 25.063 US$ 6.427,55
 Cenário 3: você tem 1.000 recursos e cada um grava 75 métricas personalizadas. Essas gravações de métricas estão sujeitas a cobranças e têm uma taxa de um ponto de dados por hora.
 
 Ingestão mensal: 418 MiB = 0,005569458 MiB para uma métrica * 75.000
 Custo aproximado por mês: US$ 69,14
-MiB ingeridos	Taxa (US$/MiB)	Custo (US$)
-150	0,00	US$ 0,00
-267	0,258	US$ 69,14
-Total	417		US$ 69,14
+MiB ingeridos Taxa (US$/MiB) Custo (US$)
+150 0,00 US$ 0,00
+267 0,258 US$ 69,14
+Total 417 US$ 69,14
 Cenário 4: você tem um recurso que grava 500.000 métricas. Essas gravações de métricas estão sujeitas a cobranças e têm uma taxa de um ponto de dados por minuto.
 
 Ingestão mensal: 167.084 MiB: 0,33416748 MiB para uma métrica * 500.000
 Custo aproximado por mês: US$ 35.890,98
-MiB ingeridos	Taxa (US$/MiB)	Custo (US$)
-150	0,00	US$ 0,00
-99.850	0,258	US$ 25.761,30
-67.084	0,151	US$ 10.129,68
-Total	167.084		US$ 35.890,98
+MiB ingeridos Taxa (US$/MiB) Custo (US$)
+150 0,00 US$ 0,00
+99.850 0,258 US$ 25.761,30
+67.084 0,151 US$ 10.129,68
+Total 167.084 US$ 35.890,98
 Preços para controle e previsibilidade
 O preço do serviço gerenciado para o Prometheus foi projetado para ser controlável. Como as cobranças são geradas por amostra, use os seguintes fatores para controlar os custos:
 
@@ -1270,22 +1254,22 @@ Por histograma: 62 (2 + 0,6(100) ou 2 + (100 - 40))
 Por mês: 2.715.600 (62 * 1 valor/60s * 2.628.000 segundos/mês)
 A seguinte tabela resume as informações anteriores:
 
-Contagem em lote	Taxa de gravação	Amostras por mês
-(máx.)	Amostras por mês
-(25% vazias)	Amostras por mês
+Contagem em lote Taxa de gravação Amostras por mês
+(máx.) Amostras por mês
+(25% vazias) Amostras por mês
 (40% vazias)
-50	1 amostra/15s	9.110.400	6.920.400	5.606.400
-50	1 amostra/60s	2.277.600	1.730.100	1.401.600
-100	1 amostra/15s	17.870.400	13.490.400	10.862.400
-100	1 amostra/60s	4.467.600	3.372.600	2.715.600
+50 1 amostra/15s 9.110.400 6.920.400 5.606.400
+50 1 amostra/60s 2.277.600 1.730.100 1.401.600
+100 1 amostra/15s 17.870.400 13.490.400 10.862.400
+100 1 amostra/60s 4.467.600 3.372.600 2.715.600
 Examples
 Para estimar os preços, conte o número de amostras gravadas durante um mês e aplique os valores. Os preços das amostras são definidos por milhão, para intervalos empilhados, da seguinte maneira:
 
-Intervalo de ingestão	Serviço gerenciado para o Prometheus	Máximo para o intervalo
-Até 50 bilhões (50.000 milhões)	US$ 0,15/milhões	US$ 7.500,00
-50 bilhões a 250 bilhões (250.000 milhões)	US$ 0,12/milhões	US$ 24.000,00
-250 bilhões a 500 bilhões (500.000 milhões)	US$ 0,09/milhões	US$ 22.500,00
-Mais de 500 bilhões (500.000 milhões)	US$ 0,06/milhão	 
+Intervalo de ingestão Serviço gerenciado para o Prometheus Máximo para o intervalo
+Até 50 bilhões (50.000 milhões) US$ 0,15/milhões US$ 7.500,00
+50 bilhões a 250 bilhões (250.000 milhões) US$ 0,12/milhões US$ 24.000,00
+250 bilhões a 500 bilhões (500.000 milhões) US$ 0,09/milhões US$ 22.500,00
+Mais de 500 bilhões (500.000 milhões) US$ 0,06/milhão
 O restante desta seção apresenta possíveis cenários.
 
 Cenário 1: você tem 100 contêineres, cada um gravando uma série de mil séries temporais escalares.
@@ -1296,38 +1280,26 @@ Variante B: se cada série temporal for gravada a cada 60 segundos (1 amostra/60
 
 Em ambos os casos, há menos de 50.000 milhões de amostras,portanto, somente a primeira taxa se aplica. Nenhuma amostra é cobrada com as outras taxas.
 
-Variante	Amostras ingeridas	Intervalo de ingestão	Serviço gerenciado para o Prometheus
+Variante Amostras ingeridas Intervalo de ingestão Serviço gerenciado para o Prometheus
 (US$ 0,15, US$ 0,12, US$ 0,09 e US$ 0,06)
 A (1 amostra/15s)
 
+Total 17.520 milhões
 
-
-Total	17.520 milhões
-
-
-
-17.520 milhões	Até 50.000 milhões
+17.520 milhões Até 50.000 milhões
 Até 250.000.000
 Até 500.000 milhões
-Mais de 500.000 milhões	US$ 2.628,00
-
-
+Mais de 500.000 milhões US$ 2.628,00
 
 US$2.628,00
 B (1 amostra/60 segundos)
 
+Total 4.380 milhões
 
-
-Total	4.380 milhões
-
-
-
-4.380 milhões	Até 50.000 milhões
+4.380 milhões Até 50.000 milhões
 Até 250.000.000
 Até 500.000 milhões
-Mais de 500.000 milhões	US$ 657,00
-
-
+Mais de 500.000 milhões US$ 657,00
 
 US$657,00
 Cenário 2: você tem 1.000 contêineres, cada um gravando 1.000 séries temporais escalares.
@@ -1339,38 +1311,28 @@ As 125.200 milhões de amostras restantes são cobradas de acordo com a segunda 
 Não há amostras cobradas nas outras taxas.
 Variante B: se cada série temporal for gravada a cada 60 segundos (1 amostra/60s), o número de amostras gravadas por mês será de 43.800.000.000, ou 43.800 milhões. Esse valor mensal é menor que 50.000 milhões de amostras. Portanto, apenas a primeira taxa se aplica.
 
-Variante	Amostras ingeridas	Intervalo de ingestão	Serviço gerenciado para o Prometheus
+Variante Amostras ingeridas Intervalo de ingestão Serviço gerenciado para o Prometheus
 (US$ 0,15, US$ 0,12, US$ 0,09 e US$ 0,06)
 A (1 amostra/15s)
 
-
-
-Total	50.000 milhões
+Total 50.000 milhões
 125.200 milhões
 
-
-175.200 milhões	Até 50.000 milhões
+175.200 milhões Até 50.000 milhões
 Até 250.000.000
 Até 500.000 milhões
-Mais de 500.000 milhões	US$ 7.500,00
+Mais de 500.000 milhões US$ 7.500,00
 US$ 15.024,00
-
 
 US$22.524,00
 B (1 amostra/60 segundos)
 
+Total 43.800 milhões
 
-
-Total	43.800 milhões
-
-
-
-43.800 milhões	Até 50.000 milhões
+43.800 milhões Até 50.000 milhões
 Até 250.000.000
 Até 500.000 milhões
-Mais de 500.000 milhões	US$ 6.570,00
-
-
+Mais de 500.000 milhões US$ 6.570,00
 
 US$6.570,00
 Cenário 3: você tem 100 contêineres, cada um gravando uma série temporal de distribuição de 1.000 buckets de 100 buckets. Você espera que 25% dos buckets estejam vazios.
@@ -1386,36 +1348,32 @@ Variante B: se cada série temporal for gravada a cada 60 segundos (1 amostra/60
 Os primeiros 50.000 milhões de amostras são cobrados de acordo com a primeira taxa.
 As próximas 200.000 milhões de amostras são cobradas a partir da segunda taxa.
 As 87.260 milhões de amostras restantes são cobradas pela terceira taxa.
-Variante	Amostras ingeridas	Intervalo de ingestão	Serviço gerenciado para o Prometheus
+Variante Amostras ingeridas Intervalo de ingestão Serviço gerenciado para o Prometheus
 (US$ 0,15, US$ 0,12, US$ 0,09 e US$ 0,06)
 A (1 amostra/15s)
 
-
-
-Total	50.000 milhões
+Total 50.000 milhões
 200.000.000.
 250.000.000.
 749.040.000.
-1.349.040 milhões	Até 50.000 milhões
+1.349.040 milhões Até 50.000 milhões
 Até 250.000.000
 Até 500.000 milhões
-Mais de 500.000 milhões	US$ 7.500,00
+Mais de 500.000 milhões US$ 7.500,00
 US$ 24.000,00
 US$ 22.500,00
 US$ 44.942,40
 US$98.942,40
 B (1 amostra/60 segundos)
 
-
-
-Total	50.000 milhões
+Total 50.000 milhões
 200.000.000
 87.260.00
 
-337.260.000.000	Até 50.000 milhões
+337.260.000.000 Até 50.000 milhões
 Até 250.000.000
 Até 500.000 milhões
-Mais de 500.000 milhões	US$ 7.500,00
+Mais de 500.000 milhões US$ 7.500,00
 US$ 24.000,00
 US$ 7.853,40
 
@@ -1434,36 +1392,32 @@ Os primeiros 50.000 milhões de amostras são cobrados de acordo com a primeira 
 As próximas 200.000 milhões de amostras são cobradas a partir da segunda taxa.
 Os próximos 250.000 milhões de amostras são cobrados na terceira taxa.
 Os 26.656.000 exemplos restantes são cobrados na quarta taxa.
-Variante	Amostras ingeridas	Intervalo de ingestão	Serviço gerenciado para o Prometheus
+Variante Amostras ingeridas Intervalo de ingestão Serviço gerenciado para o Prometheus
 (US$ 0,15, US$ 0,12, US$ 0,09 e US$ 0,06)
 A (1 amostra/15s)
 
-
-
-Total	50.000.000
+Total 50.000.000
 200.000.000
 250.000.000
 108.124.000 milhões
-108.624.000 milhões	Até 50.000 milhões
+108.624.000 milhões Até 50.000 milhões
 Até 250.000.000
 Até 500.000 milhões
-Mais de 500.000 milhões	US$ 7.500,00
+Mais de 500.000 milhões US$ 7.500,00
 US$ 24.000,00
 US$ 22.500,00
 US$ 6.487.440,00
 US$6.541.440,00
 B (1 amostra/60 segundos)
 
-
-
-Total	50.000.000
+Total 50.000.000
 200.000.000
 250.000.000
 26.656.000 milhões
-27.156.000.000.000	Até 50.000 milhões
+27.156.000.000.000 Até 50.000 milhões
 Até 250.000.000
 Até 500.000 milhões
-Mais de 500.000 milhões	US$ 7.500,00
+Mais de 500.000 milhões US$ 7.500,00
 US$ 24.000,00
 US$ 22.500,00
 US$ 1.599.360,00
@@ -1480,20 +1434,18 @@ Os primeiros 50.000 milhões de amostras são cobrados de acordo com a primeira 
 As próximas 200.000 milhões de amostras são cobradas a partir da segunda taxa.
 Os próximos 250.000 milhões de amostras são cobrados na terceira taxa.
 As 108.299.200 milhões de amostras restantes são cobradas de acordo com a quarta taxa.
-Variante	Amostras ingeridas	Intervalo de ingestão	Serviço gerenciado para o Prometheus
+Variante Amostras ingeridas Intervalo de ingestão Serviço gerenciado para o Prometheus
 (US$ 0,15, US$ 0,12, US$ 0,09 e US$ 0,06)
 2A + 4A
 
-
-
-Total	50.000.000
+Total 50.000.000
 200.000.000
 250.000.000
 108.299.200 milhões
-108.799.200 milhões	Até 50.000 milhões
+108.799.200 milhões Até 50.000 milhões
 Até 250.000.000
 Até 500.000 milhões
-Mais de 500.000 milhões	US$ 7.500,00
+Mais de 500.000 milhões US$ 7.500,00
 US$ 24.000,00
 US$ 22.500,00
 US$ 6.497.952,00
@@ -1501,7 +1453,7 @@ US$6.551.952,00
 Preços para execução da verificação de tempo de atividade (início da vigência: 1o de outubro de 2022)
 Monitoramento de cobranças para cada execução regional de uma verificação de tempo de atividade, além da cota mensal gratuita de 1 milhão de execuções. Uma verificação executada em três regiões conta como três execuções.
 
-O custo para a execução da verificação de tempo de atividade é de US $0,30/1.000 execuções. A cobrança aparece na sua fatura como SKU "CA14-D3DE-E67F" para "Monitoramento das verificações de tempo de atividade".
+O custo para a execução da verificação de tempo de atividade é de US $0,30/1.000 execuções. A cobrança aparece na sua fatura como SKU “CA14-D3DE-E67F” para “Monitoramento das verificações de tempo de atividade”.
 
 Os exemplos a seguir ilustram como estimar os custos para executar verificações de tempo de atividade. O objetivo desses exemplos é ilustrar técnicas de cálculo, e não fornecer dados de faturamento.
 
@@ -1509,7 +1461,6 @@ Como contar execuções de verificações de tempo de atividade
 Para estimar o custo das verificações de tempo de atividade, é preciso saber quantas execuções regionais ocorrem em um mês. O Monitoring cobra US$ 0,30/1.000 execuções, com uma cota mensal gratuita de 1 milhão de execuções.
 
 Para estimar o custo das verificações de tempo de atividade, use o seguinte cálculo:
-
 
 (EXECUTIONS_PER_MONTH - 1,000,000) * .0003
 Para cada verificação de tempo de atividade, o número de execuções depende das seguintes opções de configuração:
@@ -1522,12 +1473,12 @@ O número de segmentações para as quais a verificação de tempo de atividade 
 
 Ao configurar uma verificação de tempo de atividade, você especifica um local para a verificação de tempo de atividade, e cada local é mapeado para uma ou mais regiões. A tabela a seguir mostra os locais válidos para verificações de tempo de atividade e as regiões para as quais eles são mapeados:
 
-Local da configuração da verificação de tempo de atividade	Inclui regiões do Google Cloud
-ASIA_PACIFIC	asia-southeast1
-EUROPE	europe-west1
-SOUTH_AMERICA	southamerica-east1
-USA	us-central1, us-east4, us-west1
-GLOBAL	Todas as regiões incluídas por outros locais
+Local da configuração da verificação de tempo de atividade Inclui regiões do Google Cloud
+ASIA_PACIFIC asia-southeast1
+EUROPE europe-west1
+SOUTH_AMERICA southamerica-east1
+USA us-central1, us-east4, us-west1
+GLOBAL Todas as regiões incluídas por outros locais
 É necessário configurar as verificações de tempo de atividade para serem executadas em pelo menos três regiões.
 
 Para estimar o número de execuções de uma verificação de tempo de atividade, você precisa saber quantas regiões são cobertas pelo local dela:
@@ -1546,74 +1497,73 @@ A tabela a seguir mostra as contagens de execução por hora e mensal para uma �
 Frequência de execução da verificação, uma vez a cada:
 Número de regiões
 Execuções por hora
-por destino	Execuções mensais
+por destino Execuções mensais
 por destino
-1 minuto	3
+1 minuto 3
 4
 5
-6	180
+6 180
 240
 300
-360	131.400
+360 131.400
 175.200
 219.000
 262.800
-5 minutos	3
+5 minutos 3
 4
 5
-6	36
+6 36
 48
 60
-72	26.280
+72 26.280
 35.040
 43.000
 52.660
-10 minutos	3
+10 minutos 3
 4
 5
-6	18
+6 18
 24
 30
-36	13.140
+36 13.140
 17.520
 21.900
 26.280
-15 minutos	3
+15 minutos 3
 4
 5
-6	12
+6 12
 16
 20
-24	8.760
+24 8.760
 11.680
 14.600
 17.520
 Examples
 Para estimar preços, determine seu total de execuções mensais e subtraia 1.000.000. Todas as execuções restantes são cobradas a US $0,30/1.000 .Portanto, multiplique as demais por 0,0003.
 
-
 (EXECUTIONS_PER_MONTH - 1,000,000) * .0003
 Cenário 1: você tem uma verificação de tempo de atividade no local USA que verifica uma VM uma vez por minuto. Essa verificação é executada em três regiões. O cheque é executado 131.400 vezes por mês e não custa nada.
 
 Total de execuções mensais
 Execuções mensais sujeitas à cobrança
-(mais de 1.000.000)	Custo
+(mais de 1.000.000) Custo
 (US$ 0,30/1.000 execuções)
-131.400	0	US$ 0,00
+131.400 0 US$ 0,00
 Cenário 2: você tem uma verificação de tempo de atividade no local USA que verifica um grupo de recursos de 10 membros uma vez por minuto. Essa verificação é executada em três regiões. O cheque é executado 10 * 131.400 vezes por mês e custa US $94,20/mês. A única diferença entre esse cenário e o cenário 1 é o número de destinos.
 
 Total de execuções mensais
 Execuções mensais sujeitas à cobrança
-(mais de 1.000.000)	Custo
+(mais de 1.000.000) Custo
 (US$ 0,30/1.000 execuções)
-1.314.000 (10 destinos)	314.000	US$ 94,20
+1.314.000 (10 destinos) 314.000 US$ 94,20
 Cenário 3: você tem 10 verificações de tempo de atividade GLOBAL, cada uma verificando uma VM uma vez por minuto. Essas verificações são executadas em seis regiões. Portanto, cada verificação é executada 262.800 vezes por mês. O total de execuções mensais é de 2.628.000 (10 * 262.800). Esse cenário custa US$ 488,40/mês.
 
 Total de execuções mensais
 Execuções mensais sujeitas à cobrança
-(mais de 1.000.000)	Custo
+(mais de 1.000.000) Custo
 (US$ 0,30/1.000 execuções)
-2.628.000	1.628.000	US$ 488,40
+2.628.000 1.628.000 US$ 488,40
 Cenário 4: você tem cinco verificações de tempo de atividade no local USA que verificam uma VM a cada cinco minutos. Essas verificações são executadas em três regiões. Portanto, cada verificação é executada 26.280 vezes por mês. O total de execuções mensais para esse conjunto de verificações é de 105.120 (4 * 26.280).
 
 Você também tem duas verificações de tempo de atividade GLOBAL que verificam uma VM a cada 15 minutos. Essas verificações são executadas em seis regiões. Portanto, cada verificação é executada 17.520 vezes por mês. O total de execuções mensais para esse conjunto de verificações é de 35.040 (2 * 17.520).
@@ -1622,23 +1572,22 @@ Seu total de execuções mensais é de 140.160 (105.120 + 35.040). Esse cenário
 
 Total de execuções mensais
 Execuções mensais sujeitas à cobrança
-(mais de 1.000.000)	Custo
+(mais de 1.000.000) Custo
 (US$ 0,30/1.000 execuções)
-140.160	0	US$ 0,00
+140.160 0 US$ 0,00
 Preços para execução de monitor sintético (início da vigência: 1o de novembro de 2023)
 O Cloud Monitoring cobra por execução de um monitor sintético, além da cota gratuita mensal de 100 execuções por conta de faturamento. Por exemplo, se você criar três monitores sintéticos e configurar cada um deles para ser executado a cada cinco minutos, o número total de execuções por mês será de 26.784:
 
-
-Number of executions per month =  3 synthetic monitors * 1 execution per monitor per 5 minutes *
-                                  1440 minutes per day * 31 days per month
-                               =  26,784
+Number of executions per month = 3 synthetic monitors * 1 execution per monitor per 5 minutes *
+1440 minutes per day * 31 days per month
+= 26,784
 Para determinar o número de execuções faturáveis, subtraia a cota gratuita do número total de execuções e multiplique o resultado pelo custo:
 
 Total de execuções mensais
 Execuções mensais faturáveis
-(mais de 100 execuções por conta de faturamento)	Custo
+(mais de 100 execuções por conta de faturamento) Custo
 (US$ 1,20/1.000 execuções)
-26.784	26.684	US$ 32,02
+26.784 26.684 US$ 32,02
 Error Reporting
 Para informações sobre os preços atuais, consulte Preços do Error Reporting.
 
@@ -1690,24 +1639,24 @@ Para criar uma política de alertas que seja acionada quando os períodos mensai
 
 Etapas para criar uma política de alertas
 Novo estado
-Campo	
+Campo
 Valor
-Recurso e métrica	No menu Recursos, selecione Global.
+Recurso e métrica No menu Recursos, selecione Global.
 No menu Categorias de métrica, selecione Faturamento.
 No menu Métricas, selecione Períodos de trace mensais ingeridos.
-Filtrar	
+Filtrar
 Várias séries
-Agregação de série temporal	sum
-Janela contínua	60 m
-Função de janela contínua	max
+Agregação de série temporal sum
+Janela contínua 60 m
+Função de janela contínua max
 Campo
-Configurar gatilho de alerta	
+Configurar gatilho de alerta
 Valor
-Tipo de condição	Threshold
-Acionador de alerta	Any time series violates
-Posição do limite	Above threshold
-Threshold value	Você determina o valor aceitável.
-Teste a janela novamente	O valor mínimo aceitável é de 30 minutos.
+Tipo de condição Threshold
+Acionador de alerta Any time series violates
+Posição do limite Above threshold
+Threshold value Você determina o valor aceitável.
+Teste a janela novamente O valor mínimo aceitável é de 30 minutos.
 Anthos
 Não há cobrança para registros e métricas do sistema do Anthos.
 
@@ -1756,7 +1705,7 @@ Não. Os serviços que enviam entradas de registros não podem determinar se ela
 
 Serei cobrado duas vezes pelos registros de fluxo da nuvem privada virtual?
 
-Se você enviar seus registros de fluxo da VPC para o Logging, as cobranças de geração desses registros de fluxo serão dispensadas, e apenas as cobranças do Logging serão aplicadas. No entanto, se enviá-los e, em seguida, excluí-los do Logging, haverá cobranças por eles. Para mais informações, consulte a calculadora de preços do Google Cloud e selecione a guia "Cloud Load Balancing e Network Services".
+Se você enviar seus registros de fluxo da VPC para o Logging, as cobranças de geração desses registros de fluxo serão dispensadas, e apenas as cobranças do Logging serão aplicadas. No entanto, se enviá-los e, em seguida, excluí-los do Logging, haverá cobranças por eles. Para mais informações, consulte a calculadora de preços do Google Cloud e selecione a guia “Cloud Load Balancing e Network Services”.
 
 1 Para fins de definição de preços, todas as unidades são tratadas como medidas binárias, por exemplo, como mebibytes (MiB, ou 220 bytes) ou gibibytes (GiB ou 230 bytes).
 
@@ -1787,21 +1736,21 @@ How should you deal with alerts?
 0:13
 And what about managing costs?
 0:14
-Today, we'll look at best practices
+Today, we’ll look at best practices
 0:16
 that you can use to get the most value out of cloud monitoring.
 0:20
 Welcome to Engineering for Reliability with Google Cloud.
 0:22
 0:26
-Just like last time, let's first figure out
+Just like last time, let’s first figure out
 Monitoring Objectives
 0:29
 why monitoring is important at all.
 0:31
 What are we trying to achieve when we use cloud monitoring?
 0:34
-We're after three main objectives in parallel.
+We’re after three main objectives in parallel.
 0:37
 Our first objective is to keep our users happy.
 0:39
@@ -1831,26 +1780,26 @@ Our final goal is to do the first two while managing
 1:10
 the associated costs.
 1:12
-Now that we've covered the whys, let's turn to the hows.
+Now that we’ve covered the whys, let’s turn to the hows.
 1:15
-We'll start by talking about what to monitor.
+We’ll start by talking about what to monitor.
 1:18
-From there, we'll get into how to best manage alerts.
+From there, we’ll get into how to best manage alerts.
 1:21
-And finally, we'll cover cost management
+And finally, we’ll cover cost management
 1:23
 for cloud monitoring.
 1:25
-Let's get into it.
+Let’s get into it.
 1:27
-Let's start by talking about the obvious first question.
+Let’s start by talking about the obvious first question.
 What to Monitor
 1:29
 What should you be monitoring?
 1:31
 For the answer, we can turn to chapter 6
 1:33
-of the "Site Reliability Engineering" book on monitoring
+of the “Site Reliability Engineering” book on monitoring
 1:36
 distributed systems.
 1:38
@@ -1866,15 +1815,15 @@ in any way less than ideal?
 1:49
 The second question is all about causes.
 1:51
-What's causing the symptoms we've identified?
+What’s causing the symptoms we’ve identified?
 1:54
 That cause may be direct or intermediate,
 1:56
-but it's how we start to determine
+but it’s how we start to determine
 1:58
 how to restore user experience back to the desired state
 2:01
-if it's degraded in some way.
+if it’s degraded in some way.
 2:03
 We answer the first question by clearly defining our service,
 2:06
@@ -1882,17 +1831,17 @@ identifying good service level indicators, or SLIs
 2:10
 that tell us, as accurately as possible,
 2:12
-how well our service is able to meet our users' expectations,
+how well our service is able to meet our users’ expectations,
 2:16
 and defining good service level objectives, or SLOs, that
 2:19
 set a target that our SLIs have to meet.
 2:24
-We've covered defining services, SLIs, and SLOs
+We’ve covered defining services, SLIs, and SLOs
 2:27
 in cloud monitoring extensively in the series,
 2:29
-but it's always worth revisiting these topics.
+but it’s always worth revisiting these topics.
 2:31
 The first thing to answer to the question of what should we
 2:34
@@ -1900,9 +1849,9 @@ monitor is, how well is your service
 2:36
 meeting the needs of your users as expressed by good SLOs?
 2:41
-The next thing to make sure you're monitoring covers
+The next thing to make sure you’re monitoring covers
 2:43
-is what the "SRE" book refers to as the golden signals.
+is what the “SRE” book refers to as the golden signals.
 2:47
 Traffic is essentially a measure of how much
 2:49
@@ -1947,7 +1896,7 @@ You could automate the creation of dashboards
 3:37
 like this for your services.
 3:39
-We'll link to some examples in the episode notes.
+We’ll link to some examples in the episode notes.
 3:43
 Finally, you may need to augment your monitoring
 3:45
@@ -1963,7 +1912,7 @@ So that takes care of the first question,
 3:57
 what you should be monitoring.
 3:59
-We've just covered SLOs, golden signals, and custom telemetry,
+We’ve just covered SLOs, golden signals, and custom telemetry,
 4:03
 which brings us to alerting.
 Alerting Best Practices
@@ -1974,9 +1923,9 @@ What should you alert on?
 4:07
 And how should you respond to alerts?
 4:09
-Let's take a look.
+Let’s take a look.
 4:12
-Let's again return to the monitoring chapter of the "SRE"
+Let’s again return to the monitoring chapter of the “SRE”
 4:14
 book.
 4:15
@@ -1998,27 +1947,27 @@ Every page response should require intelligence.
 4:33
 If a page merits only a robotic response,
 4:35
-it shouldn't be a page.
+it shouldn’t be a page.
 4:37
 And ideally, pages alert us about a novel problem
 4:41
-or an event that hasn't been seen before.
+or an event that hasn’t been seen before.
 4:43
 That means we need to take action
 4:44
-to prevent pages from reoccurring once we've
+to prevent pages from reoccurring once we’ve
 4:46
 mitigated the triggering condition
 4:48
 and, hopefully, identified the root cause.
 4:51
-Alerts that don't meet these criteria should not be pages.
+Alerts that don’t meet these criteria should not be pages.
 4:54
-Alerts that aren't actionable are of no use at all.
+Alerts that aren’t actionable are of no use at all.
 4:57
 Alerts that require human intervention
 4:59
-but that aren't urgent should be filed as tickets instead.
+but that aren’t urgent should be filed as tickets instead.
 5:03
 Cloud monitoring supports multiple notification channels.
 5:06
@@ -2042,16 +1991,16 @@ This helps to ensure consistency and avoids human errors
 5:27
 in alert configuration.
 5:29
-Finally, it's important to understand
+Finally, it’s important to understand
 5:31
 the tools you have available to capture and optimize
 Optimizing Costs
 5:33
 your monitoring costs.
 5:34
-Let's have a look at those now.
+Let’s have a look at those now.
 5:38
-First, it's important to understand
+First, it’s important to understand
 5:39
 how you incur monitoring costs.
 5:42
@@ -2095,7 +2044,7 @@ you understand the sources of monitoring costs.
 6:25
 But what can you do to optimize those?
 6:26
-Let's have a look.
+Let’s have a look.
 6:29
 The way that you use labels for cloud components
 6:31
@@ -2143,7 +2092,7 @@ The agent collects app and system metrics
 7:21
 from common third-party apps and additional VM-level metrics.
 7:25
-If you don't need them for certain VMs,
+If you don’t need them for certain VMs,
 7:27
 you can reduce the volume by not sending these metrics.
 7:30
@@ -2172,7 +2121,7 @@ Wrap Up
 7:56
 Thanks for joining me today.
 7:57
-We've covered best practices for setting up and using
+We’ve covered best practices for setting up and using
 7:59
 cloud monitoring, including what to monitor,
 8:02
@@ -2180,13 +2129,13 @@ how to manage alerts, and how to optimize your monitoring costs.
 8:05
 I hope these recommendations help you keep your users happy.
 8:08
-In our next episode, we'll tackle best practices
+In our next episode, we’ll tackle best practices
 8:11
 for using cloud logging.
 8:12
 Thanks so much for watching today.
 8:14
-Don't forget to like and subscribe to never miss out
+Don’t forget to like and subscribe to never miss out
 8:16
 on more Engineering for Reliability with Google Cloud.
 8:19
@@ -2195,11 +2144,11 @@ See you soon.
 [MUSIC PLAYING])
 7 (Intro
 0:00
-SPEAKER: We've covered using Cloud monitoring
+SPEAKER: We’ve covered using Cloud monitoring
 0:01
 in your projects.
 0:02
-But what if you're responsible for managing many projects,
+But what if you’re responsible for managing many projects,
 0:05
 and you need to unify monitoring across them?
 0:07
@@ -2207,7 +2156,7 @@ And how can you control access to monitoring data
 0:09
 from many projects?
 0:11
-Today, we'll look at Cloud monitoring metrics scopes,
+Today, we’ll look at Cloud monitoring metrics scopes,
 0:14
 and learn how to use them to monitor multiple Cloud
 0:16
@@ -2217,7 +2166,7 @@ Welcome to Engineering for Reliability with Google Cloud.
 0:20
 Metrics Scopes and Monitored Projects
 0:24
-Let's start with a simple example.
+Let’s start with a simple example.
 0:26
 How can you make it easier to view monitoring data
 0:28
@@ -2227,11 +2176,11 @@ If I go to monitoring settings for my project,
 0:33
 I can see that my current metrics scope only
 0:35
-has a single project in it, the one I'm currently viewing.
+has a single project in it, the one I’m currently viewing.
 0:38
-I can add others, but what's actually happening here?
+I can add others, but what’s actually happening here?
 0:41
-Let's have a look at metrics scopes and how they work.
+Let’s have a look at metrics scopes and how they work.
 0:46
 When you create a Google Cloud project,
 0:48
@@ -2257,7 +2206,7 @@ and hosts monitoring configuration for itself.
 1:15
 But what if you want to centralize how that data is
 1:17
-stored and how it's accessed?
+stored and how it’s accessed?
 1:19
 You can add multiple projects to an existing scope.
 1:22
@@ -2271,7 +2220,7 @@ showing resources from all the projects in the scope,
 1:31
 or alerting policies that apply to resources
 1:34
-in multiple projects as long as they're in the metrics scope.
+in multiple projects as long as they’re in the metrics scope.
 1:38
 Note that the recommended approach for production
 1:40
@@ -2287,7 +2236,7 @@ This way, should a project not be necessary anymore
 1:52
 and get deleted, the monitoring configuration
 1:54
-for all the other projects won't be impacted.
+for all the other projects won’t be impacted.
 1:57
 What about access?
 1:58
@@ -2311,15 +2260,15 @@ for the production project.
 2:18
 Now that you understand what metrics scopes are
 2:21
-and what to use them for, let's have
+and what to use them for, let’s have
 2:22
 a look at how to set them up in Cloud monitoring.
 Managing Metrics Scopes in Cloud Console
 2:26
-Let's start in our staging project.
+Let’s start in our staging project.
 2:27
 2:30
-We'll go to Compute Engine, and see that we
+We’ll go to Compute Engine, and see that we
 2:32
 have a single VM running.
 2:33
@@ -2332,20 +2281,20 @@ For example, on the infrastructure summary
 2:45
 dashboard.
 2:46
-Let's now go to our monitoring project,
+Let’s now go to our monitoring project,
 2:52
-and confirm that there aren't any compute instances
+and confirm that there aren’t any compute instances
 2:54
 running in it.
 2:55
 2:59
-We also don't have the out-of-the-box compute
+We also don’t have the out-of-the-box compute
 3:01
-dashboards because we don't have any resources running in this
+dashboards because we don’t have any resources running in this
 3:03
 project.
 3:04
-Let's now add our staging project
+Let’s now add our staging project
 3:06
 to be monitored by this metrics scope.
 3:10
@@ -2370,17 +2319,17 @@ for example.
 3:39
 From here, we can see more details
 3:40
-about the instance being monitored, even though it's
+about the instance being monitored, even though it’s
 3:43
 running in another project.
 3:45
-So that's how we can use the Cloud Console to configure
+So that’s how we can use the Cloud Console to configure
 3:48
 metrics scopes and collect monitoring
 3:50
 data for multiple projects.
 3:53
-So that's how to configure metrics scopes in the UI.
+So that’s how to configure metrics scopes in the UI.
 Monitoring data across multiple projects
 3:56
 But how can you figure out where your project is
@@ -2389,11 +2338,11 @@ being monitored, or where the monitoring data you can see
 4:00
 in your project is coming from?
 4:02
-Let's have a look.
+Let’s have a look.
 4:04
 Now that we have added our staging project
 4:06
-to our monitoring metrics scope, let's
+to our monitoring metrics scope, let’s
 4:08
 see how we can navigate between the two.
 4:11
@@ -2421,7 +2370,7 @@ And we can go back to that project
 4:41
 simply by clicking on that link.
 4:44
-So that's how you can navigate between metrics scopes
+So that’s how you can navigate between metrics scopes
 4:47
 and monitored projects in Cloud monitoring.
 4:51
@@ -2434,9 +2383,9 @@ are added to your Production Monitoring configuration?
 4:58
 You can use the API to automate that.
 5:00
-Let's have a look.
+Let’s have a look.
 5:03
-Let's start in monitoring settings,
+Let’s start in monitoring settings,
 5:07
 and confirm that this particular metrics scope is only
 5:10
@@ -2444,9 +2393,9 @@ monitoring this project, which is the scoping
 5:12
 project for this metrics scope.
 5:15
-Now let's go to our API.
+Now let’s go to our API.
 5:17
-We'll use the Create method for metrics scopes projects
+We’ll use the Create method for metrics scopes projects
 5:20
 which takes two arguments.
 5:21
@@ -2462,9 +2411,9 @@ The name field includes a reference
 5:34
 to both the staging project and the metrics scope
 5:36
-we're adding this project to.
+we’re adding this project to.
 5:39
-Let's execute this request, authenticate, and confirm
+Let’s execute this request, authenticate, and confirm
 5:42
 that the operation is done.
 5:44
@@ -2476,7 +2425,7 @@ that the staging project has been
 5:52
 added to this metrics scope.
 5:54
-So that's how you can use the Cloud monitoring
+So that’s how you can use the Cloud monitoring
 5:56
 API to manage how projects are monitored by metrics scopes.
 Outro
@@ -2497,7 +2446,7 @@ and keep your users happy.
 6:14
 Thanks so much for watching.
 6:16
-Don't forget to like and subscribe to never miss out
+Don’t forget to like and subscribe to never miss out
 6:18
 on more Engineering for Reliability with Google Cloud.
 6:21
@@ -2519,7 +2468,7 @@ replace DevOps or SRE practices, you
 0:15
 should really watch this video to better understand
 0:17
-what they're all about.
+what they’re all about.
 0:18
 [MUSIC PLAYING]
 0:22
@@ -2534,7 +2483,7 @@ Reliability Engineering principles.
 0:37
 There is not enough time to delve into this,
 0:40
-but you'll find links to SRE literature on Service-Level
+but you’ll find links to SRE literature on Service-Level
 0:44
 Objectives, or SLOs, error budget,
 0:47
@@ -2600,7 +2549,7 @@ Each log entry indicates where it
 2:14
 came from by including the name of the monitored resource.
 2:17
-Using the console's Logs Viewer, you can query logging data
+Using the console’s Logs Viewer, you can query logging data
 2:21
 and obtain a precise subset of all the log
 2:24
@@ -2612,7 +2561,7 @@ for a given resource from different namespaces based
 2:32
 on the log level and, of course, by timestamp.
 2:37
-Note that if using the console isn't your thing,
+Note that if using the console isn’t your thing,
 2:40
 these queries are also accessible from the logging
 2:42
@@ -2679,11 +2628,11 @@ that particular web server was running
 0:10
 or not now the link to that particular
 0:12
-video i'll give you the description
+video i’ll give you the description
 0:13
 below as well as over here so in this
 0:15
-particular chapter we'll do something
+particular chapter we’ll do something
 0:17
 else so we have an instance running and
 0:18
@@ -2691,24 +2640,24 @@ we want to check whether the cpu of that
 0:21
 particular instance
 0:22
-crosses a particular threshold now let's
+crosses a particular threshold now let’s
 0:24
 see how we can do something like that so
 0:26
-the first thing that we'll do is we'll
+the first thing that we’ll do is we’ll
 0:27
-create a instance so let's do that so
+create a instance so let’s do that so
 0:29
-let's go to our
+let’s go to our
 Increase CPU utilization
 0:31
-compute engine and let's go to a vms so
+compute engine and let’s go to a vms so
 0:33
-i've already created a vm instance so
+i’ve already created a vm instance so
 0:35
-let's log into this vm instance
+let’s log into this vm instance
 0:39
-so let's ssh into it
+so let’s ssh into it
 0:41
 so to see the cpu utilization of this
 0:43
@@ -2718,7 +2667,7 @@ to do is you need to run the top command
 0:47
 and you can see that currently the cpu
 0:49
-utilization is very less what we'll do
+utilization is very less what we’ll do
 0:50
 is we need to increase the cpu
 0:52
@@ -2726,27 +2675,27 @@ utilization so so here i have a stack
 0:54
 overflow page and this particular page
 0:56
-the link to this particular page i'll
+the link to this particular page i’ll
 0:57
 give in the description below so here
 0:59
 you can use a few commands to increase
 1:01
-the cpu utilization so i'll be using
+the cpu utilization so i’ll be using
 1:03
 this particular command to increase the
 1:04
 cpu utilization of my machine so let me
 1:06
-just copy this and let's paste it over
+just copy this and let’s paste it over
 1:08
 there
 1:12
-let's exit out of this
+let’s exit out of this
 1:14
 clear screen
 1:15
-and let's run this particular command
+and let’s run this particular command
 1:18
 and now if i do a top
 1:20
@@ -2756,7 +2705,7 @@ machine should have increased and you
 1:24
 can see that it has gone up to 93
 1:26
-and it's gone up to 100 so now the next
+and it’s gone up to 100 so now the next
 1:28
 thing that i need to do is i need to run
 1:30
@@ -2766,9 +2715,9 @@ cpu crosses a particular threshold it
 1:34
 should send an alert to a user
 1:36
-so let's do that so let's go back to our
+so let’s do that so let’s go back to our
 1:39
-console again and let's go to alerting
+console again and let’s go to alerting
 Create an alerting policy
 1:41
 so this is again part of the monitoring
@@ -2781,15 +2730,15 @@ and you will find alerting
 1:48
 underneath your monitoring section so
 1:50
-let's
+let’s
 1:51
-go to your monitoring and let's click on
+go to your monitoring and let’s click on
 1:53
 alerting
 1:55
 so currently there are no policies so
 1:57
-let's create an alerting policy let's
+let’s create an alerting policy let’s
 1:59
 click on create policy
 2:02
@@ -2797,7 +2746,7 @@ and here what you need to do is you need
 2:04
 to select the appropriate metrics so
 2:05
-let's click on select metric
+let’s click on select metric
 2:07
 and we need to select a metric based on
 2:09
@@ -2807,7 +2756,7 @@ have alerting policies for other
 2:12
 services as well now for this particular
 2:15
-chapter we'll just go for vm instance
+chapter we’ll just go for vm instance
 2:18
 and here you can go to your instance and
 2:20
@@ -2821,7 +2770,7 @@ more accurate data point what you can do
 2:31
 is you can actually lower your time so
 2:32
-let's just make this as one
+let’s just make this as one
 2:36
 and here you can see a more appropriate
 2:37
@@ -2831,11 +2780,11 @@ particular cpu utilization touches
 2:41
 around 90
 2:43
-so here we'll select this particular
+so here we’ll select this particular
 2:45
 data point of one minute and we will
 2:47
-select the cpu utilization so let's go
+select the cpu utilization so let’s go
 2:49
 to next so here what we need to choose
 2:52
@@ -2847,29 +2796,29 @@ series violates above a particular
 2:57
 threshold so here you need to choose the
 2:58
-percentage so let's choose the
+percentage so let’s choose the
 3:00
-percentages let's say around 80 percent
+percentages let’s say around 80 percent
 3:04
 whenever the cpu utilization goes above
 3:06
 80 percent uh trigger will be sent so
 3:10
-that's about it let's go to next
+that’s about it let’s go to next
 3:12
 so here you need to select the
 3:13
-notification so again i've already
+notification so again i’ve already
 3:15
 created a notification
 3:17
-in my previous chapter so i'll be using
+in my previous chapter so i’ll be using
 3:19
 the same notification so
 3:20
 okay so now let me show you how the
 3:22
-notification channel looks like so let's
+notification channel looks like so let’s
 3:24
 open this in a new tab
 3:25
@@ -2891,11 +2840,11 @@ trigger is set it will send an email to
 3:39
 this particular email id
 3:42
-okay so once this is done let's go back
+okay so once this is done let’s go back
 3:44
 to our
 3:46
-uh configure notification and let's
+uh configure notification and let’s
 3:48
 choose this email that i have previously
 3:50
@@ -2903,23 +2852,23 @@ configured
 3:51
 and
 3:52
-that's about it now of course you can
+that’s about it now of course you can
 3:54
 also have other optional fields as well
 3:56
-but that's not important for this
+but that’s not important for this
 3:58
-chapter so let's just call this as my vm
+chapter so let’s just call this as my vm
 4:01
 alert
 4:03
-and let's create a policy
+and let’s create a policy
 4:11
-and let's wait for the trigger to be set
+and let’s wait for the trigger to be set
 4:15
 and an email to be sent to that
 4:16
-particular email id so let's just wait
+particular email id so let’s just wait
 4:18
 for a minute
 4:19
@@ -2927,13 +2876,13 @@ and once you go back to your alerting
 4:21
 page you can see that there is an
 4:22
-incident that has taken place that's
+incident that has taken place that’s
 4:23
 because the cpu utilization crossed the
 4:25
-80 threshold so now let's see whether
+80 threshold so now let’s see whether
 4:27
-we've received our email so let's go
+we’ve received our email so let’s go
 4:29
 back to our email id and here you can
 4:31
@@ -2947,7 +2896,7 @@ currently
 4:39
 threshold we had set was 0.8 or 80
 4:42
-so that's it for this lecture so in this
+so that’s it for this lecture so in this
 4:44
 lecture you learned how you can set
 4:46
@@ -2961,7 +2910,7 @@ issues with any of the other matrix
 4:55
 related to alerting please get in touch
 4:57
-with me that's about it for this lecture
+with me that’s about it for this lecture
 4:59
 i will see in the next)
 
@@ -2970,7 +2919,7 @@ Console
 
 Google Cloud Service Health Incidents Cooling related failure in one of our buildings that hosts zone europe-west2-a for region europe-west2.
 Service Health
-This page provides status information on the services that are part of Google Cloud. Check back here to view the current status of the services listed below. If you are experiencing an issue not listed here, please contact Support. Learn more about what's posted on the dashboard in this FAQ. For additional information on these services, please visit https://cloud.google.com/.
+This page provides status information on the services that are part of Google Cloud. Check back here to view the current status of the services listed below. If you are experiencing an issue not listed here, please contact Support. Learn more about what’s posted on the dashboard in this FAQ. For additional information on these services, please visit https://cloud.google.com/.
 Available
 Service information
 Service disruption
@@ -2983,21 +2932,21 @@ Incident began at 2022-07-19 06:33 and ended at 2022-07-20 21:20 (all times are 
 Previously affected location(s)
 London (europe-west2)
 
-DATE	TIME	DESCRIPTION
-29 Jul 2022	14:05 PDT	
+DATE TIME DESCRIPTION
+29 Jul 2022 14:05 PDT
 For a full Incident Report, please refer to https://status.cloud.google.com/incidents/fmEL9i2fArADKawkZAa2
 
-21 Jul 2022	12:06 PDT	
+21 Jul 2022 12:06 PDT
 For a preliminary Incident Report (Mini IR) , please refer to https://status.cloud.google.com/incidents/fmEL9i2fArADKawkZAa2
 
-19 Jul 2022	20:45 PDT	
+19 Jul 2022 20:45 PDT
 There was a cooling related failure in one of our buildings that hosts a portion of capacity for zone europe-west2-a for region europe-west2 that is now resolved. GCE, Persistent Disk and Autoscaling impacts have been addressed. Customers can launch VMs in all zones of europe-west2. A small number of HDD backed Persistent Disk volumes are still experiencing impact and will exhibit IO errors. If you are continuing to experience issues with these services, please contact Google Cloud Product Support and reference this message.
 
 The issue has been resolved for all affected users as of Tuesday, 2022-07-19 20:43 US/Pacific.
 
 We thank you for your patience while we worked on resolving the issue.
 
-19 Jul 2022	15:29 PDT	
+19 Jul 2022 15:29 PDT
 Summary: Cooling related failure in one of our buildings that hosts zone europe-west2-a for region europe-west2.
 
 Description: Mitigation work is currently underway by our engineering team.
@@ -3012,7 +2961,7 @@ Diagnosis: Customers impacted by this issue would have seen abnormal VM terminat
 
 Workaround: Customers who launched new VMs in zones europe-west2-b and europe-west2-c and would like to delete their previously running VMs in europe-west2-a, can delete VMs via the console or GCE APIs. There might be a delay in processing the deletion and all deletions will be fully processed when all issues in europe-west2-a are resolved.
 
-19 Jul 2022	14:08 PDT	
+19 Jul 2022 14:08 PDT
 Summary: Cooling related failure in one of our buildings that hosts zone europe-west2-a for region europe-west2.
 
 Description: Mitigation work is currently underway by our engineering team.
@@ -3035,7 +2984,7 @@ Diagnosis: Customers impacted by this issue would have seen abnormal VM terminat
 
 Workaround: Customers who launched new VMs in zones europe-west2-b and europe-west2-c and would like to delete their previously running VMs in europe-west2-a, can delete VMs via the console or GCE APIs. There might be a delay in processing the deletion and all deletions will be fully processed when all issues in europe-west2-a are resolved.
 
-19 Jul 2022	12:29 PDT	
+19 Jul 2022 12:29 PDT
 Summary: Cooling related failure in one of our buildings that hosts zone europe-west2-a for region europe-west2. Europe-west2-b and europe-west2-c are not impacted for VMs. We have fixed the previously occurring issues when creating new Persistent Disk devices. Zonal autoscaling for europe-west2-a is impacted for customers who suffered VM terminations.
 
 Description: We are experiencing an issue with Google Compute Engine beginning at Tuesday, 2022-07-19 08:10 US/Pacific.
@@ -3043,4 +2992,3 @@ Description: We are experiencing an issue with Google Compute Engine beginning a
 Our engineering team continues to investigate the issue.
 
 There has been a cooling related failure in one of our buildings that hosts zone europe-west2-a for region europe-west2. This caused a partial failure of capacity in that zone, leading to VM terminations and a loss of machines for a small set of our customers. We’re working hard to get the cooling back on-line and create capacity in that zone. We do not anticipate further impact in zone europe-west2-a and currently running VMs should not be impacted. A small percentage of replicated Persistent Disk devices are running in single redundant mode.)
-
